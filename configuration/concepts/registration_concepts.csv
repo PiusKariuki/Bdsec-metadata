@@ -1,0 +1,35 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:1,Data class,Data type,Answers
+279b1bea-b82b-412d-b44b-0cfbcf6b329d,,Postal Address,,,,,,Question,Text,
+5b269e7d-9419-4ee5-ad9c-7931ca9ea643,,Patient Occupation,,Main activity of the patient,,,,Question,Coded,"Farmer;
+Trader;
+Employee;
+Student;
+Driver;
+None;
+Other non-coded"
+db93f334-373a-4f9b-bfea-f1a926383e25,,Married Polygamous,,The patient is married to a single partner,,,,Misc,N/A,
+b5b5130a-1863-4167-9486-c1c9497ff5f4,,Married Monogomous,,The patient is marrid to multiple partners,,,,Misc,N/A,
+1060AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,Living with partner,Cohabitating,,,,,Misc,N/A,
+135704AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,Lives alone,Single,,,,,Misc,N/A,
+18ba0a1a-7aec-45e1-bebe-920726094140,,Marital Status,Marital Status,,,,,Question,Coded,"Married Polygamous;
+Married Monogomous;
+Living with partner;
+Divorced;
+Widowed;
+Lives alone;"
+e16e35be-0204-41be-95fb-a9ff2ecf3ec9,,Next of Kin Details - Name,Name,,,,,"Question ",Text,
+8c1d588e-3632-42a0-8889-7a55a59b7521,,Next of Kin Details - Spouse,Spouse,,,,,Misc,N/A,
+3e02c228-806e-4bfb-b506-ebbdf96188e9,,Next of Kin Details - Father,Father,,,,,Misc,N/A,
+4bbd7fec-8dad-4682-8b53-36193517d000,,Next of Kin Details - Mother,Mother,,,,,Misc,N/A,
+8f9b5d5c-a2f2-4364-b19d-cf426b6fa0ee,,Next of Kin Details - Guardian,Guardian,,,,,Misc,N/A,
+b64ff496-e74f-4204-83af-ca7fbd97d56b,,Next of Kin Details - Relationship,Relationship,,,,,Question,Coded,"
+Next of Kin Details - Spouse;
+Next of Kin Details - Father;
+Next of Kin Details - Mother;
+Next of Kin Details - Guardian;"
+1713AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,Primary School Education,,,,,,Misc,N/A,
+1714AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,Secondary School Education,,,,,,Misc,N/A,
+159785AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,College/university/polytechnic,"College, University or Polytechnic",,,,,Misc,N/A,
+88bd4227-f95c-47fa-88ab-e99b7a5c77ba,,Patient Education level,,,,,,Question,Coded,"Primary School Education;
+Secondary School Education;
+College/university/polytechnic;None"
