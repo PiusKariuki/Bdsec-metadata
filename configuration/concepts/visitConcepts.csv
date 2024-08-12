@@ -1,0 +1,7 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:20,Data class,Data type,Answers
+2930dbfd-6902-447b-adf4-f03e79605977,,Insurance,,,,,,Misc,N/A,
+b8f4765c-5a3a-4a14-8911-28ee827538c0,,Cash,,,,,,Misc,N/A,
+adb10fc0-794f-4443-89ff-c77aec731cd8,,Payment Method,,,,,,Question,Coded,"Insurance;
+Cash"
+aee3f85e-ef95-4eac-a5f5-65b066dbee3f,,Assigned Visit Provider,,,,,,Misc,Text,
+97fea1d4-759f-40d1-9acd-9d682adc5d89,,Provider Assignment,,,,,,Misc,N/A,
