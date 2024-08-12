@@ -1,0 +1,26 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:23
+32d51617-b9a0-4e01-b326-17b6c4faa8dd,,"Right eye Vision without Glasses;
+Left eye Vision without Glasses;
+Right eye vision with glasses;
+Left eye vision with glasses;",Visual Acuity,,Misc,N/A,,
+830472bc-f319-4ea8-b3a3-4e11390cc96c,,"Icare tonometry;
+Applanation tonometry",INTRAOCULAR PRESSURE,,Misc,N/A,,
+e79f9fca-b214-4d9d-8d4d-82619f7b1cd4,,"Complaints;
+History;
+Systemic Illnesses;
+Diabetes, Systematic Illness;	
+Hypertension, Systematic Illness;
+Cardiac, Systematic Illness;	
+Renal diseases, Systematic Illness;
+Asthma, Systematic Illness;
+Allergies, Systematic Illness;
+Others, systematic illness;
+Weight (kg);
+Height (cm);
+Immunization Status","Optometrist Assessment, Complaints",Complaints,Misc,N/A,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+73f784f1-37ee-471c-9511-3eee2667f731,,,Optometrist Assessment Form,,ConveSet,N/A,,
