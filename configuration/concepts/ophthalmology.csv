@@ -86,7 +86,7 @@ dd854172-d6f0-484d-b773-2ee2696b24fe,,Test of Pupillary Function,Test of Pupilla
 f19ddd13-e562-4f3c-97b7-25aefef6cd75,,Direct light reflex,Direct light reflex,The direct light reflex refers to the constriction of the pupil when light is shone directly into the eye,Question,Coded,Present;Absent
 0b2407c2-3616-4f87-b168-4ee52ce8e3ef,,Indirect light reflex,Indirect light reflex,"The indirect light reflex, or consensual light reflex, occurs when shining a light into one eye causes constriction of the pupil in the opposite eye",Question,Coded,Normal;Abnormal
 58bcc457-6e88-42e4-8fbc-94da98a2b784,,Swinging flash,Swinging flash,"The swinging flashlight test is used to detect a relative afferent pupillary defect (RAPD), which indicates asymmetry in the afferent pathways of the optic nerve",Question,Coded,Normal;Abnormal
-e4890914-4d35-4e8a-a034-c75a36e7b815,,Accommodation & near reflex,Accommodation & near reflex,"The accommodation reflex (or near reflex) involves the pupils constricting, the lenses thickening, and the eyes converging when focusing on a near object",Question,Coded,
+e4890914-4d35-4e8a-a034-c75a36e7b815,,Accommodation and near reflex,Accommodation and near reflex,"The accommodation reflex (or near reflex) involves the pupils constricting, the lenses thickening, and the eyes converging when focusing on a near object",Question,Coded,
 778c9b63-425f-4258-b165-cf83198dd3d9,,Stereopsis Test,Stereopsis Test,Assesses depth perception and binocular vision,Question,Text,
 836cf17d-24bd-4be2-aa47-db08192652ae,,Titmus stereo test,Titmus stereo test,,Question,Coded,
 9c71ae13-ddcd-499e-9ebe-eb238d0e015a,,TNO stereo test,TNO stereo test,,Question,Coded,
@@ -123,7 +123,7 @@ cb33eb9e-fe54-49b7-a696-3fef156e774c,,Cover Test Other,Cover Test Other,Any othe
 4b29f530-c32b-4032-903b-a129344916f6,,Corneal Light Reflex Test,,,Misc,N/A,
 e3591ef4-340b-4b87-b232-e405f042dc1a,,Tests of Ocular Motility and Binocular Vision ,,,Misc,N/A,
 4077817c-b20b-4f1a-a3a5-c7893ec494ee,,Examination ,,,Misc,N/A,
-6abcc83e-7b64-4c77-8cab-fb8e8758ec3b,,Diagnostic & Imaging,Diagnostic & Imaging,Diagnostic or imaging test requested,Question,Coded,
+6abcc83e-7b64-4c77-8cab-fb8e8758ec3b,,Diagnostic and Imaging,Diagnostic and Imaging,Diagnostic or imaging test requested,Question,Coded,
 d556a3c3-fcca-4e92-9225-07174b513d46,,Laboratory Investigation,Laboratory Investigation,Laboratory tests requested,Question,Coded,
 23cf8627-e679-44c7-b1d6-cde6f847ff82,,"Medication, Treatment plan",Treatment plan,Treatment plan for the patient,Question,Coded,
 be203be8-f8a5-4f8b-af97-cdfbdcadd7a5,,"Surgery, Treatment plan",Surgery,Patient scheduled for a surgery procedure,Question,Coded,
