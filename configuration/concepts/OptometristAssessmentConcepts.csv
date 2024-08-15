@@ -75,7 +75,7 @@ ae9220b1-5f7d-4fbd-9c2a-0df38294f052,,Fully immunized,Immunization status of the
  	
 Immunization Status",The child is not fully immunized,,,,,Question,Coded,"Fully immunized;
 Not fully immunized"
-e79f9fca-b214-4d9d-8d4d-82619f7b1cd4,,"Optometrist Assessment, Complaints",Complaints,,,,,Misc,,
+e79f9fca-b214-4d9d-8d4d-82619f7b1cd4,,"Optometrist Assessment, Complaints",Complaints,,,,,Misc,N/A,
 6fe5e473-99b4-4c4d-8113-1b5dc253e6df,,Lids,,The status of the lids,,,,Question,Coded,Normal; Abnormal
 9b02e813-1eac-4df5-9450-a7724172991d,,Conjuctiva,,The status of conjuctiva,,,,Question,Coded,Normal; Abnormal
 63945386-7d99-4515-8efe-7ef705a14166,,Cornea,,The status of cornea,,,,Question,Coded,Normal; Abnormal
