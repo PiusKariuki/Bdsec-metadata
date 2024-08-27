@@ -1,0 +1,8 @@
+Uuid,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:20
+b4b458c8-5f98-11ef-8cd6-325096b39f47,"Left Eye, Visual Acuity ; Right Eye, Visual Acuity","Visual Acuity, Preliminary Surgery Tests",VISUAL ACUITY,Misc,N/A,,
+b4b4599a-5f98-11ef-8dca-325096b39f47,"Left Eye, Icare measurement ; Right Eye, Icare measurement","Intraocular Pressure, Preliminary Surgery Tests",INTRAOCULAR PRESSURE (ICARE MEASUREMENT),Misc,N/A,,
+b4b45ada-5f98-11ef-921a-325096b39f47,"Fasting Blood Sugar, Text ; HBSAG, Text ; HCV-AB, Text ; Serology for RVI, Text","Laboratory Tests, Preliminary Surgery Tests",LABORATORY TESTS,Misc,N/A,,
+b4b45de6-5f98-11ef-a424-325096b39f47,"Axial Length, Left Eye ; K1, Left Eye ; K2, Left Eye ; A-constant, Left Eye ; IOL power, Left Eye","Left Eye, Biometry",BIOMETRY: LEFT EYE,Misc,N/A,,
+b4b45c60-5f98-11ef-9cf3-325096b39f47,"Axial Length, Right Eye ; K1, Right Eye ; K2, Right Eye ; A-constant , Right Eye ; IOL power, Right Eye","Right Eye, Biometry ",BIOMETRY: RIGHT EYE,Misc,N/A,,
+b4b45eea-5f98-11ef-b638-325096b39f47,"Left eye, Ocular ultrasound/ B-Scan ; Right eye, Ocular ultrasound/ B-Scan","Ocular ultrasound/ B-Scan, Preliminary Surgery Tests",OCULAR ULTRASOUND/ B - SCAN,Misc,N/A,,
+8aae59b1-f316-459d-b423-7533e2f7c8d0,"Visual Acuity, Preliminary Surgery Tests ; Intraocular Pressure, Preliminary Surgery Tests ; Laboratory Tests, Preliminary Surgery Tests ; Left Eye, Biometry ; Right Eye, Biometry ; Ocular ultrasound/ B-Scan, Preliminary Surgery Tests",Preliminary Surgery Tests,PRELIMINARY SURGERY TESTS,Misc,N/A,,
