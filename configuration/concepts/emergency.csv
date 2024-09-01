@@ -12,29 +12,15 @@ cf10b518-1f51-42a3-bdf3-55696e5869e7,,"Left eye vision with glasses, Emergency",
 96966060-6057-11ef-807e-325096b39f47,,"Complaints, Emergency",,,,,Misc,N/A,
 36c33543-0425-457b-90de-7da241176467,,Complaints,,Patient's presenting complaints,,,Question,Text,
 9d400262-9560-4bdb-9e12-1ca3f6547d1c,,History,,History of presenting illness,,,Question,Text,
-9da7471e-9a9e-466a-ba8e-adc502680189,,Systemic Illnesses,," 
- 	
-Whether the patient has any systemic illnesses",,,Question,Coded,
-5eced3d8-2cb8-44a6-baef-90ba6fb7c160,,"Diabetes, Systematic Illness",Diabetes," 
- 	
-Whether the patient has  diabetes",,,Question,Boolean,
-9e876e8a-fdcf-4e18-9b81-87c74d9a9306,,"Hypertension, Systematic Illness",Hypertension," 
- 	
-Whether the patient has hypertension",,,Question,Boolean,
-78462d96-0085-4ac7-9fca-747fc814b215,,"Cardiac, Systematic Illness",Cardiac," 
- 	
-Whether the patient has any cardiac illness",,,Question,Boolean,
-9a8c26cd-964b-47ac-b306-f2c7b292d5ec,,"Renal diseases, Systematic Illness",Renal diseases," 
- 	
-Whether the patient has renal diseases",,,Question,Boolean,
-b142430b-dfa9-4318-888e-2edd211d4cd4,,"Asthma, Systematic Illness",Asthma," 
- 	
-Whether the patient has asthma",,,Question,Boolean,
-ccb098ca-4534-4b23-b5bf-4edc39c33c0d,,"Allergies, Systematic Illness",Allergies," 
- 	
-Whether the patient has allergies",,,Question,Boolean,
+9da7471e-9a9e-466a-ba8e-adc502680189,,Systemic Illnesses,,Whether the patient has any systemic illnesses,,,Question,Coded,
+5eced3d8-2cb8-44a6-baef-90ba6fb7c160,,"Diabetes, Systematic Illness",Diabetes,Whether the patient has  diabetes,,,Question,Boolean,
+9e876e8a-fdcf-4e18-9b81-87c74d9a9306,,"Hypertension, Systematic Illness",Hypertension,Whether the patient has hypertension,,,Question,Boolean,
+78462d96-0085-4ac7-9fca-747fc814b215,,"Cardiac, Systematic Illness",Cardiac,Whether the patient has any cardiac illness,,,Question,Boolean,
+9a8c26cd-964b-47ac-b306-f2c7b292d5ec,,"Renal diseases, Systematic Illness",Renal diseases,Whether the patient has renal diseases,,,Question,Boolean,
+b142430b-dfa9-4318-888e-2edd211d4cd4,,"Asthma, Systematic Illness",Asthma,Whether the patient has asthma,,,Question,Boolean,
+ccb098ca-4534-4b23-b5bf-4edc39c33c0d,,"Allergies, Systematic Illness",Allergies,Whether the patient has allergies,,,Question,Boolean,
 "
-55c66d4f-e3dd-4833-9e17-92e84d83465f",,"Others, systematic illness",Others,Whether the patient has any other systemic illness,,,Question,Text,
+55c66d4f-e3dd-4833-9e17-92e84d83465f",,"Others, systematic illness",Others,Whether the patient has any other systemic illness,,,Question,Boolean,
 a20395f4-3108-4e35-bfd3-3d53c5488058,,"Nutritional Assessment, Undernourished",Undernourished,The patient is undernourished,,,Misc,N/A,
 "
 f4e01b50-4953-4809-b09e-15fed302c75d",,Well-built,Well-built,The patient is well-built,,,Misc,N/A,
@@ -85,7 +71,7 @@ b96c2ce2-6794-45df-9e03-8450cfb414a3,,Left Eye PG NV,,,,,Misc,N/A,
 611ac852-5ae1-11ef-bef5-325096b39f47,,"Macula, Fundus Exam",Macula,Fundoscopy findings on macula ,,,Question,Coded,Normal; Abnormal
 611ac8a2-5ae1-11ef-a28c-325096b39f47,,"Blood Vessels, Fundus Exam",Blood Vessels,Fundoscopy findings on blood vessels,,,Question,Coded,Normal; Abnormal
 611ac8e8-5ae1-11ef-890d-325096b39f47,,"Others, Fundus Exam",Others,Other abnormalities found during fundoscopy,,,Question,Text,
-611ac92e-5ae1-11ef-8af5-325096b39f47,,Drug Used For Dilation,Drug Used For Dilation,,,,Question,Text,
+611ac92e-5ae1-11ef-8af5-325096b39f47,,Drug Used For Dilation,Drug Used For Dilation,,,,Question,Coded,
 611ac974-5ae1-11ef-8d91-325096b39f47,,"Diagnosis, Fundus Exam",Diagnosis,,,,Question,Coded,
 611ac9f6-5ae1-11ef-a466-325096b39f47,,Advise only,Advise only,Patient was advised only on how to cope with the presenting illness,,,Misc,N/A,
 611aca3c-5ae1-11ef-9c6a-325096b39f47,,Treated with spectacles,Treated with spectacles,Patient was treated with prescription glasses,,,Misc,N/A,
