@@ -1,4 +1,4 @@
-Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,Data class,Data type,Answers,_version:1,_order:22
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,Data class,Data type,Answers,_version:1,_order:23
 effd19d2-2c80-419a-97af-f09d734d996c,,Right eye Vision without Glasses,,"Patient's  right eye visual acuity without glasses ",Question,Coded,,,
 df8580d8-471d-4100-aadf-27af5bb42d80,,Left eye Vision without Glasses,,"Patient's  left eye visual acuity without glasses ",Question,Coded,,,
 5a36365e-f24c-4fdb-82f4-881256221909,,Right eye vision with glasses,,"Patient's  right eye visual acuity with glasses ",Question,Coded,,,
