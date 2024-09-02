@@ -1,4 +1,0 @@
-Uuid,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:23
-f1381760-5fae-11ef-be00-325096b39f47,Date of Operation ; Hospital/Camp ID ; Surgeon ID ; Place of Operation ; Type of Surgery ; Type of Intraocular Lens (IOL) ; Operative Complications,"Surgery, Theatre",Surgery,Misc,N/A,,
-f1381864-5fae-11ef-8b21-325096b39f47,Presenting VA and Best VA ; Cause of Presenting Vision less than 6/80 ; Post-operative Refraction (optional),Post-op Visual Acuity,Post-op Visual Acuity,Misc,N/A,,
-61407c5f-dccd-4aa0-9450-edf4d6104818,"Category of Visual Acuity (Snellen 6m) ; Presenting Visual Acuity (VA) ; Best or pinhole VA ; Lens Examination ; Other Ocular Pathologies ; Eye to be Operated ; Refraction Details ; Biometry ; Surgery, Theatre ; Post-op Visual Acuity",BDSEC Theatre,Theatre,Misc,N/A,,
