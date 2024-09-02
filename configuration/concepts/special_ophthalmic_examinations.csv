@@ -1,4 +1,4 @@
-Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,Data class,Data type,_version:1,_order:1200
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,Data class,Data type,_version:1,_order:20
 b5a4f4c6-5f8f-11ef-b447-325096b39f47,,Pachymetry,,Measurement of corneal thickness,Question,Text,,
 b5a4f6a6-5f8f-11ef-9dbd-325096b39f47,,B scan,,Produce a two-dimensional cross-sectional image of the eye and the orbit.,Question,Text,,
 b5a4f714-5f8f-11ef-a4b7-325096b39f47,,Anterior Segment Optical Coherence Tomography,,Cross-sectional images of the anterior segment of the eye,Question,Text,,
