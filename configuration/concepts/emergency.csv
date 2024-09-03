@@ -1,9 +1,9 @@
-Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,_version:1,_order:22,Data class,Data type,Answers
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,_version:1,_order:25,Data class,Data type,Answers
 32d51617-b9a0-4e01-b326-17b6c4faa8dd,,Visual Acuity,,,,,Misc,N/A,
-70a51a4a-d87d-4072-879c-bc1de322c95a,,"Right eye Vision without Glasses, Emergency",,Patient's  right eye visual acuity without glasses ,,,Question,Text,
-f9d1b2dd-cc69-4e4b-b21c-a37f321ba763,,"Left eye Vision without Glasses, Emergency",,Patient's  left eye visual acuity without glasses ,,,Question,Text,
- 8e424f48-f824-44e5-afa8-1c13ebd463f4,,"Right eye vision with glasses, Emergency",,Patient's  right eye visual acuity with glasses ,,,Question,Text,
-cf10b518-1f51-42a3-bdf3-55696e5869e7,,"Left eye vision with glasses, Emergency",,Patient's  left eye visual acuity without glasses ,,,Question,Text,
+70a51a4a-d87d-4072-879c-bc1de322c95a,,"Right eye Vision without Glasses, Emergency",,"Patient's  right eye visual acuity without glasses ",,,Question,Text,
+f9d1b2dd-cc69-4e4b-b21c-a37f321ba763,,"Left eye Vision without Glasses, Emergency",,"Patient's  left eye visual acuity without glasses ",,,Question,Text,
+" 8e424f48-f824-44e5-afa8-1c13ebd463f4",,"Right eye vision with glasses, Emergency",,"Patient's  right eye visual acuity with glasses ",,,Question,Text,
+cf10b518-1f51-42a3-bdf3-55696e5869e7,,"Left eye vision with glasses, Emergency",,"Patient's  left eye visual acuity without glasses ",,,Question,Text,
 830472bc-f319-4ea8-b3a3-4e11390cc96c,,INTRAOCULAR PRESSURE,,,,,Misc,N/A,
 96965d5e-6057-11ef-9c76-325096b39f47,,"Icare tonometry, Right Eye, Emergency",,IOP using Icare tonometry,,,Question,Numeric,
 96965f5c-6057-11ef-9989-325096b39f47,,"Icare tonometry, Left Eye, Emergency",,IOP using Icare tonometry,,,Question,Numeric,
@@ -68,7 +68,7 @@ b96c2ce2-6794-45df-9e03-8450cfb414a3,,Left Eye PG NV,,,,,Misc,N/A,
 611ac9ba-5ae1-11ef-bf37-325096b39f47,,Fundus Exam,Fundus Exam,Fundus exam with dilation,,,Misc,N/A,
 611ac60e-5ae1-11ef-9549-325096b39f47,,"Retina, Fundus Exam",Retina,Fundoscopy findings on retina,,,Question,Coded,Normal; Abnormal
 611ac7e4-5ae1-11ef-b542-325096b39f47,,"Optic Disc, Fundus Exam",Optic Disc,Fundoscopy findings on optic disc,,,Question,Coded,Normal; Abnormal
-611ac852-5ae1-11ef-bef5-325096b39f47,,"Macula, Fundus Exam",Macula,Fundoscopy findings on macula ,,,Question,Coded,Normal; Abnormal
+611ac852-5ae1-11ef-bef5-325096b39f47,,"Macula, Fundus Exam",Macula,"Fundoscopy findings on macula ",,,Question,Coded,Normal; Abnormal
 611ac8a2-5ae1-11ef-a28c-325096b39f47,,"Blood Vessels, Fundus Exam",Blood Vessels,Fundoscopy findings on blood vessels,,,Question,Coded,Normal; Abnormal
 611ac8e8-5ae1-11ef-890d-325096b39f47,,"Others, Fundus Exam",Others,Other abnormalities found during fundoscopy,,,Question,Text,
 611ac92e-5ae1-11ef-8af5-325096b39f47,,Drug Used For Dilation,Drug Used For Dilation,,,,Question,Coded,
