@@ -33,11 +33,11 @@ a6f03f8e-ae85-41c2-a17d-a13aa7a2fe05,,"Others, Intraocular pressure, Left Eye",L
 9a8c26cd-964b-47ac-b306-f2c7b292d5ec,,"Renal diseases, Systematic Illness",Renal diseases,Whether the patient has renal diseases,Question,Boolean,,,
 b142430b-dfa9-4318-888e-2edd211d4cd4,,"Asthma, Systematic Illness",Asthma,Whether the patient has asthma,Question,Boolean,,,
 ccb098ca-4534-4b23-b5bf-4edc39c33c0d,,"Allergies, Systematic Illness",Allergies,Whether the patient has allergies,Question,Boolean,,,
-"
-55c66d4f-e3dd-4833-9e17-92e84d83465f",,"Others, systematic illness",Others,Whether the patient has any other systemic illness,Question,Text,,,
+55c66d4f-e3dd-4833-9e17-92e84d83465f,,"Others, systematic illness",Others,Whether the patient has any other systemic illness,Question,Text,,,
+e2239005-9f0f-43b5-9405-b823c32056a6,,Family History of ocular illnesses,Family History of ocular illnesses,Whether there is family history of ocular illnesses,Question,Boolean,,,
+f2b46e61-75a9-4fce-8b8d-f942cf8cd36c,,Past Ocular Illnesses and Surgeries,Past ocular illnesses and surgeries,Whether the patient has had past ocular illness or surgery,Question,Boolean,,,
 a20395f4-3108-4e35-bfd3-3d53c5488058,,"Nutritional Assessment, Undernourished",Undernourished,The patient is undernourished,Misc,N/A,,,
-"
-f4e01b50-4953-4809-b09e-15fed302c75d",,Well-built,Well-built,The patient is well-built,Misc,N/A,,,
+f4e01b50-4953-4809-b09e-15fed302c75d,,Well-built,Well-built,The patient is well-built,Misc,N/A,,,
 cdc0e3af-a9c8-4a0b-b08e-d2e014f0ec92,,Obese,Obese,The patient is obese,Misc,N/A,,,
 a2baca63-a259-4950-b917-7e025b70a392,,Nutritional Assessment,Nutritional Assessment,The nutritional status of the patient,Question,Coded,"Nutritional Assessment, Undernourished;
 Well-built;
