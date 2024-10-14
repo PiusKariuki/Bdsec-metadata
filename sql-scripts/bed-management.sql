@@ -1,3 +1,9 @@
+-- void default wards [Emergency, General Ward, Pediatric Ward]
+UPDATE location
+    SET retired = 1
+    WHERE name IN ("Emergency", "Emergency Ward",  "General Ward", "General Ward Room-1", "General Ward Room-2", "Pediatric Ward", "Pediatric Ward Room-1");
+
+
 SET @location_tag_id = (select location_tag_id from location_tag where name='Admission Location' LIMIT 1);
 
 -- BED TYPES
@@ -12,14 +18,14 @@ SET @recovery_bed_type_id = (SELECT bed_type_id FROM bed_type WHERE name = 'Reco
 
 -- IPD WARD 
 INSERT IGNORE INTO location (name, description, retired, uuid, date_created, creator) 
-    VALUES('IPD WARD', 'in-patient ward', 0, UUID(), NOW(), 1);
+    VALUES('IPD Ward', 'in-patient ward', 0, UUID(), NOW(), 1);
 
-SET @parent_location_id = (SELECT location_id FROM location WHERE name='IPD WARD' LIMIT 1);
+SET @parent_location_id = (SELECT location_id FROM location WHERE name='IPD Ward' LIMIT 1);
 
 -- IPD WARD I
 INSERT IGNORE INTO location (name, description, retired, uuid, parent_location,date_created, creator) 
-    VALUES ('IPD WARD I', 'First IPD ward', 0, UUID(), @parent_location_id, NOW(), 1);
-SET @location_id = (SELECT location_id FROM location WHERE name='IPD WARD I' LIMIT 1);
+    VALUES ('IPD Ward I', 'First IPD ward', 0, UUID(), @parent_location_id, NOW(), 1);
+SET @location_id = (SELECT location_id FROM location WHERE name='IPD Ward I' LIMIT 1);
 
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@parent_location_id, @location_tag_id);
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@location_id, @location_tag_id);
@@ -42,8 +48,8 @@ INSERT IGNORE bed_location_map(bed_location_map_id, location_id, bed_row_number,
 
 -- IPD WARD II
 INSERT IGNORE INTO location (name, description, retired, uuid, parent_location,date_created, creator) 
-    VALUES ('IPD WARD II', 'Second IPD ward', 0, UUID(), @parent_location_id,  NOW(), 1);
-SET @location_id = (SELECT location_id FROM location WHERE name='IPD WARD II' LIMIT 1);
+    VALUES ('IPD Ward II', 'Second IPD ward', 0, UUID(), @parent_location_id,  NOW(), 1);
+SET @location_id = (SELECT location_id FROM location WHERE name='IPD Ward II' LIMIT 1);
 
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@parent_location_id, @location_tag_id);
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@location_id, @location_tag_id);
@@ -65,8 +71,8 @@ INSERT IGNORE bed_location_map(bed_location_map_id, location_id, bed_row_number,
 
 -- IPD WARD III
 INSERT IGNORE INTO location (name, description, retired, uuid, parent_location,date_created, creator) 
-    VALUES ('IPD WARD III', 'Third IPD ward', 0, UUID(), @parent_location_id, NOW(), 1);
-SET @location_id = (SELECT location_id FROM location WHERE name='IPD WARD III' LIMIT 1);
+    VALUES ('IPD Ward III', 'Third IPD ward', 0, UUID(), @parent_location_id, NOW(), 1);
+SET @location_id = (SELECT location_id FROM location WHERE name='IPD Ward III' LIMIT 1);
 
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@parent_location_id, @location_tag_id);
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@location_id, @location_tag_id);
@@ -88,8 +94,8 @@ INSERT IGNORE bed_location_map(bed_location_map_id, location_id, bed_row_number,
 
 -- IPD WARD IV
 INSERT IGNORE INTO location (name, description, retired, uuid, parent_location,date_created, creator) 
-    VALUES ('IPD WARD IV', 'Fourth IPD ward', 0, UUID(), @parent_location_id, NOW(), 1);
-SET @location_id = (SELECT location_id FROM location WHERE name='IPD WARD IV' LIMIT 1);
+    VALUES ('IPD Ward IV', 'Fourth IPD ward', 0, UUID(), @parent_location_id, NOW(), 1);
+SET @location_id = (SELECT location_id FROM location WHERE name='IPD Ward IV' LIMIT 1);
 
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@parent_location_id, @location_tag_id);
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@location_id, @location_tag_id);
@@ -111,8 +117,8 @@ INSERT IGNORE bed_location_map(bed_location_map_id, location_id, bed_row_number,
 
 -- IPD WARD V
 INSERT IGNORE INTO location (name, description, retired, uuid, parent_location,date_created, creator) 
-    VALUES ('IPD WARD V', 'Fifth IPD ward', 0, UUID(), @parent_location_id, NOW(), 1);
-SET @location_id = (SELECT location_id FROM location WHERE name='IPD WARD V' LIMIT 1);
+    VALUES ('IPD Ward V', 'Fifth IPD ward', 0, UUID(), @parent_location_id, NOW(), 1);
+SET @location_id = (SELECT location_id FROM location WHERE name='IPD Ward V' LIMIT 1);
 
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@parent_location_id, @location_tag_id);
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@location_id, @location_tag_id);
@@ -135,15 +141,15 @@ INSERT IGNORE bed_location_map(bed_location_map_id, location_id, bed_row_number,
 
 -- VIP WARD 
 INSERT IGNORE INTO location (name, description, retired, uuid, date_created, creator) 
-    VALUES('VIP WARD', 'vip ward', 0, UUID(), NOW(), 1);
+    VALUES('VIP Ward', 'vip ward', 0, UUID(), NOW(), 1);
 
-SET @parent_location_id = (SELECT location_id FROM location WHERE name='VIP WARD' LIMIT 1);
+SET @parent_location_id = (SELECT location_id FROM location WHERE name='VIP Ward' LIMIT 1);
 
 
 -- VIP WARD I
 INSERT IGNORE INTO location (name, description, retired, uuid, parent_location,date_created, creator) 
-    VALUES ('VIP WARD I', 'First VIP ward', 0, UUID(), @parent_location_id, NOW(), 1);
-SET @location_id = (SELECT location_id FROM location WHERE name='VIP WARD I' LIMIT 1);
+    VALUES ('VIP Ward I', 'First VIP ward', 0, UUID(), @parent_location_id, NOW(), 1);
+SET @location_id = (SELECT location_id FROM location WHERE name='VIP Ward I' LIMIT 1);
 
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@parent_location_id, @location_tag_id);
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@location_id, @location_tag_id);
@@ -156,8 +162,8 @@ INSERT IGNORE bed_location_map(bed_location_map_id, location_id, bed_row_number,
 
 -- VIP WARD II
 INSERT IGNORE INTO location (name, description, retired, uuid, parent_location,date_created, creator) 
-    VALUES ('VIP WARD II', 'Second VIP ward', 0, UUID(), @parent_location_id, NOW(), 1);
-SET @location_id = (SELECT location_id FROM location WHERE name='VIP WARD II' LIMIT 1);
+    VALUES ('VIP Ward II', 'Second VIP ward', 0, UUID(), @parent_location_id, NOW(), 1);
+SET @location_id = (SELECT location_id FROM location WHERE name='VIP Ward II' LIMIT 1);
 
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@parent_location_id, @location_tag_id);
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@location_id, @location_tag_id);
@@ -170,8 +176,8 @@ INSERT IGNORE bed_location_map(bed_location_map_id, location_id, bed_row_number,
 
 -- VIP WARD III
 INSERT IGNORE INTO location (name, description, retired, uuid, parent_location,date_created, creator) 
-    VALUES ('VIP WARD III', 'Third VIP ward', 0, UUID(), @parent_location_id, NOW(), 1);
-SET @location_id = (SELECT location_id FROM location WHERE name='VIP WARD III' LIMIT 1);
+    VALUES ('VIP Ward III', 'Third VIP ward', 0, UUID(), @parent_location_id, NOW(), 1);
+SET @location_id = (SELECT location_id FROM location WHERE name='VIP Ward III' LIMIT 1);
 
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@parent_location_id, @location_tag_id);
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@location_id, @location_tag_id);
@@ -184,8 +190,8 @@ INSERT IGNORE bed_location_map(bed_location_map_id, location_id, bed_row_number,
 
 -- VIP WARD IV
 INSERT IGNORE INTO location (name, description, retired, uuid, parent_location,date_created, creator) 
-    VALUES ('VIP WARD IV', 'Fourth VIP ward', 0, UUID(), @parent_location_id, NOW(), 1);
-SET @location_id = (SELECT location_id FROM location WHERE name='VIP WARD IV' LIMIT 1);
+    VALUES ('VIP Ward IV', 'Fourth VIP ward', 0, UUID(), @parent_location_id, NOW(), 1);
+SET @location_id = (SELECT location_id FROM location WHERE name='VIP Ward IV' LIMIT 1);
 
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@parent_location_id, @location_tag_id);
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@location_id, @location_tag_id);
@@ -199,15 +205,15 @@ INSERT IGNORE bed_location_map(bed_location_map_id, location_id, bed_row_number,
 
 -- RECOVERY WARD 
 INSERT IGNORE INTO location (name, description, retired, uuid, date_created, creator) 
-    VALUES('Recovery WARD', 'recovery ward', 0, UUID(), NOW(), 1);
+    VALUES('Recovery Ward', 'recovery ward', 0, UUID(), NOW(), 1);
 
-SET @parent_location_id = (SELECT location_id FROM location WHERE name='Recovery WARD' LIMIT 1);
+SET @parent_location_id = (SELECT location_id FROM location WHERE name='Recovery Ward' LIMIT 1);
 
 
 -- REC. WARD I
 INSERT IGNORE INTO location (name, description, retired, uuid, parent_location,date_created, creator) 
-    VALUES ('Recovery WARD I', 'First Recovery ward', 0, UUID(), @parent_location_id, NOW(), 1);
-SET @location_id = (SELECT location_id FROM location WHERE name='Recovery WARD I' LIMIT 1);
+    VALUES ('Recovery Ward I', 'First Recovery ward', 0, UUID(), @parent_location_id, NOW(), 1);
+SET @location_id = (SELECT location_id FROM location WHERE name='Recovery Ward I' LIMIT 1);
 
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@parent_location_id, @location_tag_id);
 INSERT IGNORE INTO location_tag_map (location_id, location_tag_id) VALUES (@location_id, @location_tag_id);
