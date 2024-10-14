@@ -1,3 +1,8 @@
+-- void default ORs ["General OT", "Orthopaedic OT",]
+UPDATE location
+    SET retired = 1
+    WHERE name IN ("General OT", "Orthopaedic OT");
+
 SET @parent_location_id = (SELECT location_id FROM location WHERE name='Bahmni Hospital');
 
 SET @or_location_tag_id = (SELECT location_tag_id FROM location_tag WHERE name='Operation Theater');
