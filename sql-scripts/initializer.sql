@@ -19,9 +19,6 @@ INSERT IGNORE INTO location_tag_map (location_id, location_tag_id)
             ((SELECT location_id FROM location WHERE name='OR III'), @or_location_tag_id);
 
 -- ---------------------------------------------------------------------------------------------------------------------
-DELETE FROM surgical_appointment_attribute_type
-    WHERE name IN ('Equipment','Complications','Discharge Notes', 'Disposables' );
-
 INSERT IGNORE INTO surgical_appointment_attribute_type (name, description, format, date_created, creator, retired, uuid, sort_weight)
     VALUES ('Equipment', 'Equipment', 'java.lang.String', NOW(), 1, 0, '9d98094a-492f-49da-ba63-e128f1b1bed9', 11),
             ('Complications', 'Complications', 'java.lang.String', NOW(), 1, 0, '6b276fcf-0e7c-43b8-ad9f-41d8d8ba5682', 12),
