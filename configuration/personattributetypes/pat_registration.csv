@@ -1,6 +1,7 @@
 Uuid,Void/Retire,Name,Description,Format,Foreign uuid,Searchable,Edit privilege,_order:1001,_version:1
 0b0a1654-adeb-4f0a-9965-c010b2fe1efc,,postalAddress,Postal Address,java.lang.String,,yes,,,
 dff5293e-fd95-4d24-9495-1579259d2cc4,,occupation,Occupation,org.openmrs.Concept,5b269e7d-9419-4ee5-ad9c-7931ca9ea643,,,,
+16533cbb-7a35-4530-8106-86ab2d2d95a9,,Specify Occupation,Specify Occupation,java.lang.String,0150a32a-909c-45cd-a677-cf09e55873f5,,,,
 61bd18e5-4573-4f10-b772-896c65b4b705,,civilstatus,Marital Status,org.openmrs.Concept,18ba0a1a-7aec-45e1-bebe-920726094140,,,,
 96501a27-d00c-4d1c-8b9a-5035474c1edc,,nextofKinName,Name,java.lang.String,,,,,
 16298ec3-31bd-4aed-843b-92d1eeedd3f8,,nextofKinRelationship,Relationship,org.openmrs.Concept,b64ff496-e74f-4204-83af-ca7fbd97d56b,,,,
