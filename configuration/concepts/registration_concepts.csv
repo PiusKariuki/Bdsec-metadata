@@ -36,5 +36,5 @@ Secondary School Education;
 College/university/polytechnic;None"
 b7275366-750c-4ae6-b450-b89455acb5c4,,"Facility, Patient",Facility,,,,,Misc,N/A,
 50632c60-8183-4f6e-b36f-c8f6994cc627,,"Outreach, Patient",Outreach,,,,,Misc,N/A,
-d22d3db8-8232-45ca-a109-703a9f02ca70,,Patient Type,,,,,,Question,Coded,"Facility, Patient;
+d22d3db8-8232-45ca-a109-703a9f02ca70,,Patient Type,Patient Location,,,,,Question,Coded,"Facility, Patient;
 Outreach, Patient"
