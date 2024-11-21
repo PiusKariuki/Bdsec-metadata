@@ -1,0 +1,93 @@
+{
+  "formJson": {
+    "id": 19,
+    "uuid": "7f659037-5aa5-44cc-aced-32a4d6ed113e",
+    "name": "Registration Details",
+    "version": "1",
+    "published": true,
+    "auditInfo": {
+      "creator": {
+        "uuid": "A4F30A1B-5EB9-11DF-A648-37A07F9C90FB",
+        "display": "daemon",
+        "links": [
+          {
+            "rel": "self",
+            "uri": "http://localhost/openmrs/ws/rest/v1/user/A4F30A1B-5EB9-11DF-A648-37A07F9C90FB",
+            "resourceAlias": "user"
+          }
+        ]
+      },
+      "dateCreated": "2023-07-25T18:48:37.000+0530",
+      "changedBy": {
+        "uuid": "bdea357f-f496-11ed-b179-0242ac150003",
+        "display": "superman",
+        "links": [
+          {
+            "rel": "self",
+            "uri": "http://localhost/openmrs/ws/rest/v1/user/bdea357f-f496-11ed-b179-0242ac150003",
+            "resourceAlias": "user"
+          }
+        ]
+      },
+      "dateChanged": "2023-07-25T18:52:20.000+0530"
+    },
+    "resources": [
+      {
+        "value": "{\"name\":\"Registration Details\",\"id\":19,\"uuid\":\"7f659037-5aa5-44cc-aced-32a4d6ed113e\",\"defaultLocale\":\"en\",\"controls\":[{\"type\":\"section\",\"label\":{\"translationKey\":\"SECTION_17\",\"type\":\"label\",\"value\":\"Fee Information\",\"id\":\"17\"},\"properties\":{\"addMore\":false,\"location\":{\"column\":0,\"row\":2}},\"id\":\"17\",\"controls\":[{\"type\":\"obsControl\",\"label\":{\"translationKey\":\"REGISTRATION_FEE_18\",\"id\":\"18\",\"units\":\"\",\"type\":\"label\",\"value\":\"Registration Fee\"},\"properties\":{\"mandatory\":false,\"notes\":false,\"addMore\":false,\"hideLabel\":false,\"controlEvent\":false,\"location\":{\"column\":0,\"row\":0},\"abnormal\":false},\"id\":\"18\",\"concept\":{\"name\":\"Registration Fee\",\"uuid\":\"9bb0795c-4ff0-0305-1990-000000000021\",\"datatype\":\"Numeric\",\"conceptClass\":\"Misc\",\"conceptHandler\":null,\"answers\":[],\"properties\":{\"allowDecimal\":true}},\"hiNormal\":null,\"lowNormal\":null,\"hiAbsolute\":null,\"lowAbsolute\":null},{\"type\":\"obsControl\",\"label\":{\"translationKey\":\"DOCTOR_NAME_19\",\"id\":\"19\",\"units\":\"\",\"type\":\"label\",\"value\":\"Doctor Name\"},\"properties\":{\"mandatory\":false,\"notes\":false,\"addMore\":false,\"hideLabel\":false,\"controlEvent\":false,\"location\":{\"column\":0,\"row\":1}},\"id\":\"19\",\"concept\":{\"name\":\"Doctor Name\",\"uuid\":\"9bb0795c-4ff0-0305-1990-000000000022\",\"datatype\":\"Text\",\"conceptClass\":\"Misc\",\"conceptHandler\":null,\"answers\":[],\"properties\":{\"allowDecimal\":null}},\"units\":null,\"hiNormal\":null,\"lowNormal\":null,\"hiAbsolute\":null,\"lowAbsolute\":null},{\"type\":\"obsControl\",\"label\":{\"translationKey\":\"CONSULTATION_FEE_20\",\"id\":\"20\",\"units\":\"\",\"type\":\"label\",\"value\":\"Consultation Fee\"},\"properties\":{\"mandatory\":false,\"notes\":true,\"addMore\":false,\"hideLabel\":false,\"controlEvent\":false,\"location\":{\"column\":0,\"row\":2},\"abnormal\":false},\"id\":\"20\",\"concept\":{\"name\":\"Consultation Fee\",\"uuid\":\"9bb0795c-4ff0-0305-1990-000000000023\",\"datatype\":\"Numeric\",\"conceptClass\":\"Misc\",\"conceptHandler\":null,\"answers\":[],\"properties\":{\"allowDecimal\":true}},\"hiNormal\":null,\"lowNormal\":null,\"hiAbsolute\":null,\"lowAbsolute\":null}]}],\"events\":{\"onFormInit\":\"function(form) {\\n  form.get('Body mass index').setHidden(true);\\n  form.get('BMI Status').setHidden(true);\\n}\",\"onFormSave\":\"\"},\"translationsUrl\":\"/openmrs/ws/rest/v1/bahmniie/form/translations\",\"referenceVersion\":\"1\",\"referenceFormUuid\":\"7f659037-5aa5-44cc-aced-32a4d6ed113e\"}",
+        "dataType": "org.bahmni.customdatatype.datatype.FileSystemStorageDatatype",
+        "uuid": "5fe30605-1a50-4087-83e3-b0ab48120277"
+      }
+    ]
+  },
+  "translations": [
+    {
+      "locale": "en",
+      "labels": {
+        "SECTION_1": "Nutritional  Values",
+        "SECTION_17": "Fee Information",
+        "SECTION_6": "Vitals"
+      },
+      "concepts": {
+        "SYSTOLIC_BLOOD_PRESSURE_25": "Systolic blood pressure",
+        "BODY_POSITION_27_DESC": "Body position for procedure or blood pressure measurement",
+        "CACHEXIA_23": "Cachexia",
+        "DOCTOR_NAME_19": "Doctor Name",
+        "BODY_MASS_INDEX_21_DESC": "Body Mass Index (BMI) is a relationship between weight and height that is associated with body fat and health risk.\r\n\r\nThe equation is BMI = body weight in kilograms/height in meters squared.",
+        "HEIGHT_(CM)_5_DESC": "Patient's height in centimeters.",
+        "WEIGHT_(KG)_4": "Weight (kg)",
+        "OBESITY_23": "Obesity",
+        "DIASTOLIC_BLOOD_PRESSURE_26": "Diastolic blood pressure",
+        "BLOOD_PRESSURE_24": "Blood Pressure",
+        "CONSULTATION_FEE_20": "Consultation Fee",
+        "ARTERIAL_BLOOD_OXYGEN_SATURATION_(PULSE_OXIMETER)_29": "Arterial blood oxygen saturation (pulse oximeter)",
+        "MALNUTRITION_OF_MODERATE_DEGREE_(GOMEZ:_60%_TO_LESS_THAN_75%_OF_STANDARD_WEIGHT)_23": "Malnutrition of moderate degree (Gomez: 60% to Less than 75% of Standard Weight)",
+        "MORBID_OBESITY_23": "Morbid Obesity",
+        "DIASTOLIC_BLOOD_PRESSURE_26_DESC": "A patient's diastolic blood pressure measurement (taken with a manual cuff in either a sitting or standing position)",
+        "HEIGHT_(CM)_5": "Height (cm)",
+        "MALNUTRITION_OF_MILD_DEGREE_(GOMEZ:_75%_TO_LESS_THAN_90%_OF_STANDARD_WEIGHT)_23": "Malnutrition of mild degree (Gomez: 75% to Less than 90% of Standard Weight)",
+        "PULSE_28_DESC": "Patient pulse rate, as measured with a peripheral oximeter.",
+        "UNKNOWN_27": "Unknown",
+        "WEIGHT_(KG)_4_DESC": "Patient's weight in kilograms.",
+        "ARTERIAL_BLOOD_OXYGEN_SATURATION_(PULSE_OXIMETER)_29_DESC": "Oxygen saturation, as measured from a peripheral oximeter.",
+        "BODY_POSITION_27": "Body position",
+        "NORMAL_23": "Normal",
+        "OTHER_27": "Other",
+        "BODY_MASS_INDEX_21": "Body mass index",
+        "BMI_STATUS_23": "BMI Status",
+        "FOWLER'S_POSITION_27": "Fowler's position",
+        "RECUMBENT_27": "recumbent",
+        "OVERWEIGHT_(BMI_25.0-29.9)_23": "Overweight (BMI 25.0-29.9)",
+        "SITTING_27": "sitting",
+        "SYSTOLIC_BLOOD_PRESSURE_25_DESC": "A patient's systolic blood pressure measurement (taken with a manual cuff in either a sitting or standing position)",
+        "STANDING_27": "standing",
+        "REGISTRATION_FEE_18": "Registration Fee",
+        "PULSE_28": "Pulse"
+      },
+      "formName": "Registration Details",
+      "formUuid": null,
+      "version": "1",
+      "referenceVersion": null,
+      "referenceFormUuid": null
+    }
+  ]
+}
