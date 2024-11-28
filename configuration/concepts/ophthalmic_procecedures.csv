@@ -2,3 +2,5 @@ Uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:f
 b5cf483c-ffd3-4e4c-b33b-b1f94eae9c90,,,Manual SICS +PCIOL(rigid lens),,,,,,Procedure,N/A,,,,,,,,,,,true,
 ec6a25ee-f399-4d4a-80a8-cf2fefc4a1b4,,,Phaco-Surgery,,,,,,Procedure,N/A,,,,,,,,,,,true,
 ff8a22a5-724e-438c-b3df-d186aa740406,,,Catract surgery,,,,,,ConvSet,N/A,,,,,,,,,,,,
+2fa56004-b92c-4477-b91a-b3c327fa6925,,,Scleral Fixation IOL Surgery,,,,,,Procedure,N/A,,,,,,,,,,,,
+0082a549-1991-4dce-85c3-1dfdc208913a,,,Complicated Cataract surgery,,,,,,ConvSet,N/A,,,,,,,,,,,,
