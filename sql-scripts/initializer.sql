@@ -262,3 +262,21 @@ INSERT IGNORE bed_location_map(bed_location_map_id, location_id, bed_row_number,
             (33,@location_id, 1, 4, 33),
             (34,@location_id, 1, 5, 34),
             (35,@location_id, 1, 6, 35);
+
+
+-- Script to Set all drugs Selable
+INSERT INTO concept_attribute ( concept_id, attribute_type_id, value_reference, uuid, creator, date_created, changed_by, date_changed, voided, voided_by, date_voided, void_reason
+) SELECT concept_id, 1, 'true', UUID(), 4, '2024-12-16 07:53:15', NULL, NULL, 0, NULL, NULL, NULL FROM drug ;
+
+-- Delete duplicate drugs in concept_attribute table
+DELETE FROM concept_attribute WHERE concept_attribute_id NOT IN (
+    SELECT * FROM (
+        SELECT MIN(concept_attribute_id)
+        FROM concept_attribute
+        GROUP BY concept_id
+    ) AS subquery
+);
+
+
+
+
