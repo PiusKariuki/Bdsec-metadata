@@ -1,6 +1,6 @@
 Uuid,Void/Retire,Name,Description,_version:2
 ,,OPD,Visit for Out patient,
-,True,IPD,Visit for patients being admitted,
+,,IPD,Visit for patients being admitted,
 ,,EMERGENCY,Visit for emergency patients,
 ,True,Special OPD,Visit for retrospective data entry,
 ,True,Follow Up,Visit for patients coming for a follow up,
