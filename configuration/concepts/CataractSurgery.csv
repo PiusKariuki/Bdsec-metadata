@@ -1,0 +1,265 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,Data class,Data type,Complex data handler,Answers,_version:1,_order:23
+86358AAAAAAAAAAAAAAAAAHTAAAAAAAAAAAA,,"Receiving the patient in ward","Receiving the patient in ward","Receiving the patient in ward",Question,Coded,,Yes;No,1,0
+86358AAAAAAAAAAAF1MAAAAAAAAAAAAAAAAA,,"Verified patient details and wrist band",Verified patient details and wrist band,Verified patient details and wrist band,Question,Coded,,Yes;No,1,1
+86358AAAAAAAAAAAF2MAAAAAAAAAAAAAAAAA,,"Eye cleaned with Iodine",Eye cleaned with Iodine,Eye cleaned with Iodine,Question,Coded,,Yes;No,1,2
+86358AAAAAAAAAAAF3MAAAAAAAAAAAAAAAAA,,"Verified consent form",Verified consent form,Verified consent form,Question,Coded,,Yes;No,1,3
+86358AAAAAAAAAAAF4MAAAAAAAAAAAAAAAAA,,"Preoperative instruction given",Preoperative instruction given,Preoperative instruction given,Question,Coded,,Yes;No,1,4
+86358AAAAAAAAAAAF5MBVAAAAAAAAAAAAAAA,,"Blood Pressure","Blood Pressure","Blood Pressure",Question,Numeric,,,"1.0",5
+86358AAAAAAAAAAAF5MAAAAAAAAAAAAAAAAA,,"Pulse Rate",Pulse Rate,Pulse Rate,Question,Numeric,,,"1.0",5
+86358AAAAAAAAAAAF6MAAAAAAAAAAAAAAAAA,,"IOP, Duct results attached","IOP, Duct results attached","IOP, Duct results attached",Question,Coded,,Yes;No,1,6
+86358AAAAAAAAAAAF7MAAAAAAAAAAAAAAAAA,,"A-scan report attached","A-scan report attached","A-scan report attached",Question,Coded,,Yes;No,1,7
+86358AAAAAAAAAAAF8MAAAAAAAAAAAAAAAAA,,"Culture sensitivity report attached (If required)","Culture sensitivity report attached (If required)","Culture sensitivity report attached (If required)",Question,Coded,,Yes;No,1,8
+86358AAAAAAAAAAAF9MAAAAAAAAAAAAAAAAA,,"Check stickers (Lens, Eye to be operated, systemic, monitoring, SMO)","Check stickers (Lens, Eye to be operated, systemic, monitoring, SMO)","Check stickers (Lens, Eye to be operated, systemic, monitoring, SMO)",Question,Coded,,Yes;No,1,9
+86358AAAAAAAAAAAFAMAAAAAAAAAAAAAAAAA,,"Physician fitness","Physician fitness","Physician fitness",Question,Coded,,Yes;No,1,10
+86358AAAAAAAAAAAFBMAAAAAAAAAAAAAAAAA,,"Check case sheet",Check case sheet,Check case sheet,Question,Coded,,Yes;No,1,11
+87358AAAAAAAAAAAFDMAAAAAAAAAAAAAAAAA,,"Date","Date","Date",Question,Date,,,"1.0",12
+86358AAAAAAAAAAAFDMAAAAAAAAAAAAAAAAA,,"Drug","Drug","Drug",Question,Text,,,"1.0",12
+86358AAAAAAAAAAAFEMAAAAAAAAAAAAAAAAA,,"Dosage","Dosage","Dosage",Question,Text,,,"1.0",13
+86358AAAAAAAAAAAFFMAAAAAAAAAAAAAAAAA,,"Systemic Disease(Pre-operative)","Systemic Disease(Pre-operative)","Systemic Disease(Pre-operative)",Question,Text,,,"1.0",14
+86358AAAAAAAAAAAFGMAAAAAAAAAAAAAAAAA,,"Frequency","Frequency","Frequency",Question,Text,,,"1.0",15
+86358AAAAAAAAAAAFHMAAAAAAAAAAAAAAAAA,,"Route","Route","Route",Question,Text,,,"1.0",16
+86358AAAAAAAAAAAFIMAAAAAAAAAAAAAAAAA,,"Time","Time","Time",Question,Text,,,"1.0",17
+86358AAAAAAAAAAAFJMAAAAAAAAAAAAAAAAA,,"Verified/applied by","Verified/applied by","Verified/applied by",Question,Text,,,"1.0",18
+86358AAAAAAAAAAAFKMAAAAAAAAAAAAAAAAA,,"RBS - 11.5mmol/L","RBS - 11.5mmol/L","RBS - 11.5mmol/L",Question,Text,,,"1.0",19
+86358AAAAAAAAAAAFNMAAAAAAAAAAAAAAAAA,,"RBS - 11.5mmol/L Date","RBS - 11.5mmol/L Date","RBS - 11.5mmol/L Date",Question,Date,,,"1.0",20
+86358AAAAAAAAAAAFOMAAAAAAAAAAAAAAAAA,,"RBS - 11.5mmol/L Time","RBS - 11.5mmol/L Time","RBS - 11.5mmol/L Time",Question,Text,,,"1.0",21
+86358AAAAAAAAAAAFPMAAAAAAAAAAAAAAAAA,,"Nurse signature","Nurse signature","Nurse signature",Image,Complex,ImageUrlHandler,,"1.0",22 
+86358AAAAAAAAAAAFQMAAAAAAAAAAAAAAAAA,,"FBS","FBS","FBS",Question,Text,,,"1.0",23
+86358AAAAAAAAAAAFRMAAAAAAAAAAAAAAAAA,,"FBS Date","FBS Date","FBS Date",Question,Date,,,"1.0",24
+86358AAAAAAAAAAAFSMAAAAAAAAAAAAAAAAA,,"FBS Time","FBS Time","FBS Time",Question,Text,,,"1.0",25
+86358AAAAAAAAAAAFUMAAAAAAAAAAAAAAAAA,,"PPBS","PPBS","PPBS",Question,Text,,,"1.0",26
+86358AAAAAAAAAAAFVMAAAAAAAAAAAAAAAAA,,"PPBS Date","PPBS Date","PPBS Date",Question,Date,,,"1.0",27
+86358AAAAAAAAAAAFWMAAAAAAAAAAAAAAAAA,,"PPBS Time","PPBS Time","PPBS Time",Question,Text,,,"1.0",28
+86358AAAAAAAAAAAFXMAAAAAAAAAAAAAAAAA,,"Verify lens sticker with the IP record","Verify lens sticker with the IP record","Verify lens sticker with the IP record",Question,Coded,,Yes;No,1,29
+86358AAAAAAAAAAAFYMAAAAAAAAAAAAAAAAA,,"Checking the dilatation","Checking the dilatation","Checking the dilatation",Question,Coded,,Yes;No,1,30
+86358AAAAAAAAAAAFZMAAAAAAAAAAAAAAAAA,,"Diet taken","Diet taken","Diet taken",Question,Coded,,Yes;No,1,31
+86358AAAAAAAAAAAGLMKAAAAAAAAAAAAAAAA,,"Pre op systemic medications taken","Pre op systemic medications taken","Pre op systemic medications taken",Question,Coded,,Yes;No,1,32
+86358AAAAAAAAAAAG1MAAHAAAAAAAAAAAAAA,,"Culture report collected","Culture report collected","Culture report collected",Question,Coded,,Yes;No,1,33
+86358AAAAAAAAAAAG2MKSAAAAAAAAAAAAAAA,,"Date","Date","Date",Question,Date,,,"1.0",34
+86358AAAAAAAAAAAG3MAAAANBSAAAAAAAAAA,,"Datetime","Datetime","Datetime",Question,Datetime,,,"1.0",35
+86JRGAAAAAAAAAAAG3MAAAAAAAAAAAAAAAAA,,"BP (mm/Hg)","BP (mm/Hg)","BP (mm/Hg)",Question,Numeric,,,"1.0",35
+863LKAAAAAAAAAAAG4MAAAAAAAAAAAAAAAAA,,"Pulse rate/min","Pulse rate/min","Pulse rate/min",Question,Numeric,,,"1.0",36
+86358AAAAAAAAAAAMBDAAAAAAAAAAAAAAAAA,,"Res rate/min","Res rate/min","Res rate/min",Question,Numeric,,,"1.0",37
+86358AAAAAAAAAAALKNAAAAAAAAAAAAAAAAA,,"Checked by","Checked by","Checked by",Question,Text,,,"1.0",38
+86358AAAAAAAAAAAG7MAAAAAAAAAAAAAAAAA,,"Time","Time","Time",Question,Text,,,"1.0",39
+86358AAAAAAAAAAAG8MAAAAAAAAAAAAAAAAA,,"Drug name","Drug name","Drug name",Question,Text,,,"1.0",40
+86358AAAAAAAAAAAG9MAAAAAAAAAAAAAAAAA,,"RE","RE","RE",Question,Text,,,"1.0",41
+86358AAAAAAAAAAAGAMAAAAAAAAAAAAAAAAA,,"LE","LE","LE",Question,Text,,,"1.0",42
+86358AAAAAAAAAAAGBMAAAAAAAAAAAAAAAAA,,"RE UCVA","RE UCVA","RE UCVA",Question,Text,,,"1.0",43
+86358AAAAAAAAAAAGCMAAAAAAAAAAAAAAAAA,,"LE UCVA","LE UCVA","LE UCVA",Question,Text,,,"1.0",44
+86358AAAAAAAAAAAGDMAAAAAAAAAAAAAAAAA,,"RE BCVA","RE BCVA","RE BCVA",Question,Text,,,"1.0",45
+86358AAAAAAAAAAAGEMAAAAAAAAAAAAAAAAA,,"LE BCVA","LE BCVA","LE BCVA",Question,Text,,,"1.0",46
+86358AAAAAAAAAAAGFMAAAAAAAAAAAAAAAAA,,"Catataract Group","Catataract Group","Catataract Group",Question,Coded,,I;II;III,1,47
+86358AAAAAAAAAAAGGMAAAAAAAAAAAAAAAAA,,"I","I","I",Misc,N/A,,,1,48
+86358AAAAAAAAAAAGHMAAAAAAAAAAAAAAAAA,,"II","II","II",Misc,N/A,,,1,49
+86358AAAAAAAAAAAGIMAAAAAAAAAAAAAAAAA,,"III","III","III",Misc,N/A,,,1,50
+86358AAAAAAAAAAAGJMAAAAAAAAAAAAAAAAA,,"Lens Status","Lens Status","Lens Status",Question,Coded,,NS I;NS II;NS III;NS IV;PSCC;PPC;Cortical;Mature;Hypermature;Complicated;Brown;Traumatic;Penetrating;Sublaxated lens;Phacolytic;Phamarcomorphic;Aphakia;Pseudophakia;Others,1,51
+86358AAAAAAAAAAAGKMAAAAAAAAAAAAAAAAA,,"NS I","NS I","NS I",Misc,N/A,,,1,52
+86358AAAAAAAAAAAGLMAAAAAAAAAAAAAAAAA,,"NS II","NS II","NS II",Misc,N/A,,,1,53
+86358AAAAAAAAAAAGMMAAAAAAAAAAAAAAAAA,,"NS III","NS III","NS III",Misc,N/A,,,1,54
+86358AAAAAAAAAAAGNMAAAAAAAAAAAAAAAAA,,"NS IV","NS IV","NS IV",Misc,N/A,,,1,55
+86358AAAAAAAAAAAGOMAAAAAAAAAAAAAAAAA,,"PSCC","PSCC","PSCC",Misc,N/A,,,1,56
+86358AAAAAAAAAAAGPMAAAAAAAAAAAAAAAAA,,"PPC","PPC","PPC",Misc,N/A,,,1,57
+86358AAAAAAAAAAAGQMAAAAAAAAAAAAAAAAA,,"Cortical","Cortical","Cortical",Misc,N/A,,,1,58
+86358AAAAAAAAAAAGRMAAAAAAAAAAAAAAAAA,,"Mature","Mature","Mature",Misc,N/A,,,1,59
+86358AAAAAAAAAAAGSMAAAAAAAAAAAAAAAAA,,"Hypermature","Hypermature","Hypermature",Misc,N/A,,,1,60
+86358AAAAAAAAAAAGTMAAAAAAAAAAAAAAAAA,,"Complicated","Complicated","Complicated",Misc,N/A,,,1,61
+86358AAAAAAAAAAAGUMAAAAAAAAAAAAAAAAA,,"Brown","Brown","Brown",Misc,N/A,,,1,62
+86358AAAAAAAAAAAGVMAAAAAAAAAAAAAAAAA,,"Traumatic","Traumatic","Traumatic",Misc,N/A,,,1,63
+86358AAAAAAAAAAAGWMAAAAAAAAAAAAAAAAA,,"Penetrating","Penetrating","Penetrating",Misc,N/A,,,1,64
+86358AAAAAAAAAAAGXMAAAAAAAAAAAAAAAAA,,"Sublaxated lens","Sublaxated lens","Sublaxated lens",Misc,N/A,,,1,65
+86358AAAAAAAAAAAGYMAAAAAAAAAAAAAAAAA,,"Phacolytic","Phacolytic","Phacolytic",Misc,N/A,,,1,66
+86358AAAAAAAAAAAGZMAAAAAAAAAAAAAAAAA,,"Phamarcomorphic","Phamarcomorphic","Phamarcomorphic",Misc,N/A,,,1,67
+86358AAAAAAAAAAAG0MAAAAAAAAAAAAAAAAA,,"Aphakia","Aphakia","Aphakia",Misc,N/A,,,1,68
+86358AAAAAAAAAAAG1MAAAAAAAAAAAAAAAAA,,"Pseudophakia","Pseudophakia","Pseudophakia",Misc,N/A,,,1,69
+86358AAAAAAAAAAAG3MAAAAAAAAAAAAAAAAA,,"Co-existing Disease","Co-existing Disease","Co-existing Disease",Question,Coded,,None;Glaucoma;Diabetic Retinopathy;Macular Degeneration;Amblyopia;Previous refractive/intraocular surgery;Others,1,71
+86358AAAAAAAAAAAG5MAAAAAAAAAAAAAAAAA,,"Glaucoma","Glaucoma","Glaucoma",Misc,N/A,,,1,73
+86358AAAAAAAAAAAG6MAAAAAAAAAAAAAAAAA,,"Diabetic Retinopathy","Diabetic Retinopathy","Diabetic Retinopathy",Misc,N/A,,,1,74
+86358AAAAAAAAAAAG7MAAAAAAAAAAAAAAAAA,,"Macular Degeneration","Macular Degeneration","Macular Degeneration",Misc,N/A,,,1,75
+86358AAAAAAAAAAAG8MAAAAAAAAAAAAAAAAA,,"Amblyopia","Amblyopia","Amblyopia",Misc,N/A,,,1,76
+86358AAAAAAAAAAAG9MAAAAAAAAAAAAAAAAA,,"Previous refractive/intraocular surgery","Previous refractive/intraocular surgery","Previous refractive/intraocular surgery",Misc,N/A,,,1,77
+86358AAAAAAAAAAAGAMAAAAAAAAAAAAAAAAA,,"Complicating Co-morbidity","Complicating Co-morbidity","Complicating Co-morbidity",Question,Coded,,None;Small pupil(4mm or less);Pseudoexfoliation;Corneal opacity;Shallow AC;High myopia;Others,1,7
+86358AAAAAAAAAAAGBMAAAAAAAAAAAAAAAAA,,"Doctor's signature","Doctor's signature","Doctor's signature",Image,Complex,ImageUrlHandler,,"1.0",78
+86358AAAAAAAAAAAGCMAAAAAAAAAAAAAAAAA,,"Fit for surgery","Fit for surgery","Fit for surgery",Question,Coded,,Yes;No,1,79
+86358AAAAAAAAAAAGDMAAAAAAAAAAAAAAAAA,,"Systemic Disease","Systemic Disease","Systemic Disease",Question,Text,,,"1.0",80
+86358AAAAAAAAAAAGEAMAAAAAAAAAAAAAAAAA,,"Pre Block - Pulse","Pre Block - Pulse","Pre Block - Pulse",Question,Numeric,,,"1.0",81
+86358AAAAAAAAAAAGFMAAAAAAAAAAAAAAAAA,,"SPO2","SPO2","SPO2",Question,Numeric,,,"1.0",82
+86358AAAAAAAAAAAGGMAAAAAAAAAAAAAAAAA,,"Intraoperative Problems","Intraoperative Problems","Intraoperative Problems",Question,Coded,,Yes;No,1,83
+86358AAAAAAAAAAAGHMAAAAAAAAAAAAAAAAA,,"Post-Operative Problems","Post-Operative Problems","Post-Operative Problems",Question,Coded,,Yes;No,1,84
+86358AAAAAAAAAAAGIMAAAAAAAAAAAAAAAAA,,"Signature","Signature","Signature",Image,Complex,ImageUrlHandler,,"1.0",85
+86358AAAAAAAAAAAGJMAAAAAAAAAAAAAAAAA,,"Eye","Eye","Eye",Question,Coded,,RE;LE,1,86
+86358AAAAAAAAAAAGKMAAAAAAAAAAAAAAAAA,,"RE","RE","RE",Misc,N/A,,,1,87
+86358AAAAAAAAAAAGLMAAAAAAAAAAAAAAAAA,,"LE","LE","LE",Misc,N/A,,,1,88
+86358AAAAAAAAAAAGMMAAAAAAAAAAAAAAAAA,,"Date of surgery","Date of surgery","Date of surgery",Question,Date,,,"1.0",89
+86358AAAAAAAAAAAGNMAAAAAAAAAAAAAAAAA,,"The patient has confirmed:","The patient has confirmed:","The patient has confirmed:",Question,Coded,,Identify(Name and address);Eye;Use of topical antibiotics;Pre-op systematic medications taken;Type of surgery and IOL;Billing details verified;A-scan verified,1,90
+86358AAAAAAAAAAAGOMAAAAAAAAAAAAAAAAA,,"Identify(Name and address)","Identify(Name and address)","Identify(Name and address)",Misc,N/A,,,1,91
+86358AAAAAAAAAAAGPMAAAAAAAAAAAAAAAAA,,"Eye","Eye","Eye",Misc,N/A,,,1,92
+86358AAAAAAAAAAAGQMAAAAAAAAAAAAAAAAA,,"Use of topical antibiotics","Use of topical antibiotics","Use of topical antibiotics",Misc,N/A,,,1,93
+86358AAAAAAAAAAAGRMAAAAAAAAAAAAAAAAA,,"Pre-op systematic medications taken","Pre-op systematic medications taken","Pre-op systematic medications taken",Misc,N/A,,,1,94
+86358AAAAAAAAAAAGSMAAAAAAAAAAAAAAAAA,,"Type of surgery and IOL","Type of surgery and IOL","Type of surgery and IOL",Misc,N/A,,,1,95
+86358AAAAAAAAAAAGTMAAAAAAAAAAAAAAAAA,,"Billing details verified","Billing details verified","Billing details verified",Misc,N/A,,,1,96
+86358AAAAAAAAAAAGUMAAAAAAAAAAAAAAAAA,,"A-scan verified","A-scan verified","A-scan verified",Misc,N/A,,,1,97
+86358AAAAAAAAAAAGVMAAAAAAAAAAAAAAAAA,,"Any known allergy","Any known allergy","Any known allergy",Question,Coded,,Yes;No,1,98
+86358AAAAAAAAAAAGWMAAAAAAAAAAAAAAAAA,,"Pre-op iodine applied","Pre-op iodine applied","Pre-op iodine applied",Question,Coded,,Yes;No,1,99
+86358AAAAAAAAAAAGXMAAAAAAAAAAAAAAAAA,,"Surgeon & Nurse verbally confirm","Surgeon & Nurse verbally confirm","Surgeon & Nurse verbally confirm",Question,Coded,,Patient identify;Eye;Procedure;Lens model and power,1,100
+86358AAAAAAAAAAAGYMAAAAAAAAAAAAAAAAA,,"Patient identify","Patient identify","Patient identify",Misc,N/A,,,1,101
+86358AAAAAAAAAAAG0MAAAAAAAAAAAAAAAAA,,"Procedure","Procedure","Procedure",Misc,N/A,,,1,103
+86358AAAAAAAAAAAG1MAAAAAAAAAAAAAAAAA,,"Lens model and power","Lens model and power","Lens model and power",Misc,N/A,,,1,104
+86358AAAAAAAAAAAG2MAAAAAAAAAAAAAAAAA,,"Aseptic precautions taken","Aseptic precautions taken","Aseptic precautions taken",Question,Coded,,Yes;No,1,105
+86358AAAAAAAAAAAG3MAAAAAAAAAAAAAAAAA,,"Eye cleaned with Betadine","Eye cleaned with Betadine","Eye cleaned with Betadine",Question,Coded,,Yes;No,1,106
+86358AAAAAAAAAAAG4MAAAAAAAAAAAAAAAAA,,"Draped & speculum applied","Draped & speculum applied", "Draped & speculum applied",Question,Coded,,Yes;No,1,107
+86358AAAAAAAAAAAG5MAAAAAAAAAAAAAAAAA,,"Nurse verbally confirms with team:","Nurse verbally confirms with team:","Nurse verbally confirms with team:",Question,Coded,,Name of the procedures recorded;Any specific post op instructions,1,108
+86358AAAAAAAAAAAG6MAAAAAAAAAAAAAAAAA,,"Name of the procedures recorded","Name of the procedures recorded","Name of the procedures recorded",Misc,N/A,,,1,109
+86358AAAAAAAAAAAG7MAAAAAAAAAAAAAAAAA,,"Any specific post op instructions","Any specific post op instructions","Any specific post op instructions",Misc,N/A,,,1,110
+86358AAAAAAAAAAAG8MAAAAAAAAAAAAAAAAA,,"Anesthesia","Anesthesia","Anesthesia",Question,Coded,,Topical;Retrobulbar;Peribulbar;Sedation;GA,1,111
+86358AAAAAAAAAAAG9MAAAAAAAAAAAAAAAAA,,"Given by Sign","Given by Sign","Given by Sign",Image,Complex,ImageUrlHandler,,"1.0",112
+86358AAAAAAAAAAAGAMAAAAAAAAAAAAAAAAA,,"Given by Name","Given by Name","Given by Name",Question,Text,,,"1.0",113
+86358AAAAAAAAAAAGBMAAAAAAAAAAAAAAAAA,,"Given by Time","Given by Time","Given by Time",Question,Text,,,"1.0",114
+86358AAAAAAAAAAAGCMAAAAAAAAAAAAAAAAA,,"If repeated by Sign","If repeated by Sign","If repeated by Sign",Image,Complex,ImageUrlHandler,,"1.0",115
+86358AAAAAAAAAAAGDMAAAAAAAAAAAAAAAAA,,"If repeated by Name","If repeated by Name","If repeated by Name",Question,Text,,,"1.0",116
+86358AAAAAAAAAAAGEAMAAAAAAAAAAAAAAAAA,,"If repeated by Time","If repeated by Time","If repeated by Time",Question,Text,,,"1.0",117
+86358AAAAAAAAAAAGFMAAAAAAAAAAAAAAAAA,,"Complications if any","Complications if any","Complications if any",Question,Coded,,IV Mannitol;Xylocaine testdose,1,118
+86358AAAAAAAAAAAGGMAAAAAAAAAAAAAAAAA,,"IV Mannitol","IV Mannitol","IV Mannitol",Misc,N/A,,,1,119
+86358AAAAAAAAAAAGHMAAAAAAAAAAAAAAAAA,,"Xylocaine testdose","Xylocaine testdose","Xylocaine testdose",Misc,N/A,,,1,120
+86358AAAAAAAAAAAGIMAAAAAAAAAAAAAAAAA,,"Surgeon Name","Surgeon Name","Surgeon Name",Question,Text,,,"1.0",121
+86358AAAAAAAAAAAGJMAAAAAAAAAAAAAAAAA,,"Assistant Nurse","Assistant Nurse","Assistant Nurse",Question,Text,,,"1.0",122
+86358AAAAAAAAAAAGKMAAAAAAAAAAAAAAAAA,,"Starting time","Starting time","Starting time",Question,Time,,,"1.0",123
+86358AAAAAAAAAAAGLMAAAAAAAAAAAAAAAAA,,"Finishing time","Finishing time","Finishing time",Question,Time,,,"1.0",124
+86358AAAAAAAAAAAGMMAAAAAAAAAAAAAAAAA,,"Phaco time","Phaco time","Phaco time",Question,Time,,,"1.0",125
+86358AAAAAAAAAAAGNMAAAAAAAAAAAAAAAAA,,"Type of surgery","Type of surgery","Type of surgery",Question,Coded,,ECCE;SICS;Phaco;Lens removal;Secondary IOL;Resurgery (outside operated),1,126
+86358AAAAAAAAAAAGOMAAAAAAAAAAAAAAAAA,,"ECCE","ECCE","ECCE",Misc,N/A,,,1,127
+86358AAAAAAAAAAAGPMAAAAAAAAAAAAAAAAA,,"SICS","SICS","SICS",Misc,N/A,,,1,128
+86358AAAAAAAAAAAGQMAAAAAAAAAAAAAAAAA,,"Phaco","Phaco","Phaco",Misc,N/A,,,1,129
+86358AAAAAAAAAAAGRMAAAAAAAAAAAAAAAAA,,"Lens removal","Lens removal","Lens removal",Misc,N/A,,,1,130
+86358AAAAAAAAAAAGSMAAAAAAAAAAAAAAAAA,,"Secondary IOL","Secondary IOL","Secondary IOL",Misc,N/A,,,1,131
+86358AAAAAAAAAAAGTMAAAAAAAAAAAAAAAAA,,"Resurgery (outside operated)","Resurgery (outside operated)","Resurgery (outside operated)",Misc,N/A,,,1,132
+86358AAAAAAAAAAAGUMAAAAAAAAAAAAAAAAA,,"Type of IOL","Type of IOL","Type of IOL",Question,Coded,,Rigid;Aspheric;Auroflex;Aurovue;Acrylic;Multifocal;Auro Toric;Imported Toric,1,133
+86358AAAAAAAAAAAGVMAAAAAAAAAAAAAAAAA,,"Rigid","Rigid","Rigid",Misc,N/A,,,1,134
+86358AAAAAAAAAAAGWMAAAAAAAAAAAAAAAAA,,"Aspheric","Aspheric","Aspheric",Misc,N/A,,,1,135
+86358AAAAAAAAAAAGXMAAAAAAAAAAAAAAAAA,,"Auroflex","Auroflex","Auroflex",Misc,N/A,,,1,136
+86358AAAAAAAAAAAGYMAAAAAAAAAAAAAAAAA,,"Aurovue","Aurovue","Aurovue",Misc,N/A,,,1,137
+86358AAAAAAAAAAAGZMAAAAAAAAAAAAAAAAA,,"Acrylic","Acrylic","Acrylic",Misc,N/A,,,1,138
+86358AAAAAAAAAAAG0MAAAAAAAAAAAAAAAAA,,"Multifocal","Multifocal","Multifocal",Misc,N/A,,,1,139
+86358AAAAAAAAAAAG1MAAAAAAAAAAAAAAAAA,,"Auro Toric","Auro Toric","Auro Toric",Misc,N/A,,,1,140
+86358AAAAAAAAAAAG2MAAAAAAAAAAAAAAAAA,,"Imported Toric","Imported Toric","Imported Toric",Misc,N/A,,,1,141
+86358AAAAAAAAAAAG3MAAAAAAAAAAAAAAAAA,,"Section","Section","Section",Question,Coded,,Corneal;Limbal;Scleral,1,142
+86358AAAAAAAAAAAG4MAAAAAAAAAAAAAAAAA,,"Corneal","Corneal","Corneal",Misc,N/A,,,1,143
+86358AAAAAAAAAAAG5MAAAAAAAAAAAAAAAAA,,"Limbal","Limbal","Limbal",Misc,N/A,,,1,144
+86358AAAAAAAAAAAG6MAAAAAAAAAAAAAAAAA,,"Scleral","Scleral","Scleral",Misc,N/A,,,1,145
+86358AAAAAAAAAAAG7MAAAAAAAAAAAAAAAAA,,"Site","Site","Site",Question,Coded,,Superior;Temporal;LRI,1,146
+86358AAAAAAAAAAAG8MAAAAAAAAAAAAAAAAA,,"Superior","Superior","Superior",Misc,N/A,,,1,147
+86358AAAAAAAAAAAG9MAAAAAAAAAAAAAAAAA,,"Temporal","Temporal","Temporal",Misc,N/A,,,1,148
+86358AAAAAAAAAAAGAMAAAAAAAAAAAAAAAAA,,"LRI","LRI","LRI",Misc,N/A,,,1,149
+86358AAAAAAAAAAAGBMAAAAAAAAAAAAAAAAA,,"IOL","IOL","IOL",Question,Coded,,In Bag;Sulcus;IF IOL;SF IOL;Nil,1,150
+86358AAAAAAAAAAAGCMAAAAAAAAAAAAAAAAA,,"In Bag","In Bag","In Bag",Misc,N/A,,,1,151
+86358AAAAAAAAAAAGDMAAAAAAAAAAAAAAAAA,,"Sulcus","Sulcus","Sulcus",Misc,N/A,,,1,152
+86358AAAAAAAAAAAGEMAAAAAAAAAAAAAAAAA,,"IF IOL","IF IOL","IF IOL",Misc,N/A,,,1,153
+86358AAAAAAAAAAAGFMAAAAAAAAAAAAAAAAA,,"SF IOL","SF IOL","SF IOL",Misc,N/A,,,1,154
+86358AAAAAAAAAAAGHMAAAAAAAAAAAAAAAAA,,"Capsulotomy","Capsulotomy","Capsulotomy",Question,Coded,,Canopener;CCC;Envelope,1,156
+86358AAAAAAAAAAAGIMAAAAAAAAAAAAAAAAA,,"Canopener","Canopener","Canopener",Misc,N/A,,,1,157
+86358AAAAAAAAAAAGJMAAAAAAAAAAAAAAAAA,,"CCC","CCC","CCC",Misc,N/A,,,1,158
+86358AAAAAAAAAAAGKMAAAAAAAAAAAAAAAAA,,"Envelope","Envelope","Envelope",Misc,N/A,,,1,159
+86358AAAAAAAAAAAGLMAAAAAAAAAAAAAAAAA,,"Iridectomy","Iridectomy","Iridectomy",Question,Coded,,Nil;PI;SI;ST,1,160
+86358AAAAAAAAAAAGNMAAAAAAAAAAAAAAAAA,,"PI","PI","PI",Misc,N/A,,,1,162
+86358AAAAAAAAAAAGOMAAAAAAAAAAAAAAAAA,,"SI","SI","SI",Misc,N/A,,,1,163
+86358AAAAAAAAAAAGPMAAAAAAAAAAAAAAAAA,,"ST","ST","ST",Misc,N/A,,,1,164
+86358AAAAAAAAAAAGQMAAAAAAAAAAAAAAAAA,,"Intracameral","Intracameral","Intracameral",Question,Coded,,Xylocaine;Adrenaline;Trypanblue;Pilocarpine;Antibiotic;Triamcinolone,1,165
+86358AAAAAAAAAAAGRMAAAAAAAAAAAAAAAAA,,"Xylocaine","Xylocaine","Xylocaine",Misc,N/A,,,1,166
+86358AAAAAAAAAAAGSMAAAAAAAAAAAAAAAAA,,"Adrenaline","Adrenaline","Adrenaline",Misc,N/A,,,1,167
+86358AAAAAAAAAAAGTMAAAAAAAAAAAAAAAAA,,"Trypanblue","Trypanblue","Trypanblue",Misc,N/A,,,1,168
+86358AAAAAAAAAAAGUMAAAAAAAAAAAAAAAAA,,"Pilocarpine","Pilocarpine","Pilocarpine",Misc,N/A,,,1,169
+86358AAAAAAAAAAAGVMAAAAAAAAAAAAAAAAA,,"Antibiotic","Antibiotic","Antibiotic",Misc,N/A,,,1,170
+86358AAAAAAAAAAAGWMAAAAAAAAAAAAAAAAA,,"Triamcinolone","Triamcinolone","Triamcinolone",Misc,N/A,,,1,171
+86358AAAAAAAAAAAGXMAAAAAAAAAAAAAAAAA,,"Devices","Devices","Devices",Question,Coded,,CTR;Iris hooks;Capsule hooks;Modified CTR,1,172
+86358AAAAAAAAAAAGYMAAAAAAAAAAAAAAAAA,,"CTR","CTR","CTR",Misc,N/A,,,1,173
+86358AAAAAAAAAAAGZMAAAAAAAAAAAAAAAAA,,"Iris hooks","Iris hooks","Iris hooks",Misc,N/A,,,1,174
+86358AAAAAAAAAAAG0MAAAAAAAAAAAAAAAAA,,"Capsule hooks","Capsule hooks","Capsule hooks",Misc,N/A,,,1,175
+86358AAAAAAAAAAAG1MAAAAAAAAAAAAAAAAA,,"Modified CTR","Modified CTR","Modified CTR",Misc,N/A,,,1,176
+86358AAAAAAAAAAAG2MAAAAAAAAAAAAAAAAA,,"Sutures","Sutures","Sutures",Question,Coded,,Yes;No,1,177
+86358AAAAAAAAAAAG3MAAAAAAAAAAAAAAAAA,,"If yes, material","If yes, material","If yes, material",Question,Text,,,1,178
+86358AAAAAAAAAAAG4MAAAAAAAAAAAAAAAAA,,"Complications","Complications","Complications",Question,Coded,,Premature Entry;Rhexis tear;PC Rent;DM detachment;Iridodialysis (>3hrs);Drop (Nucleus/ Epinucleus/IOL);Zonular Dialysis;Vitreous Disturbance;Failure to implant;IOL damage / exchange,1,179
+86358AAAAAAAAAAAG5MAAAAAAAAAAAAAAAAA,,"Premature Entry","Premature Entry","Premature Entry",Misc,N/A,,,1,180
+86358AAAAAAAAAAAG6MAAAAAAAAAAAAAAAAA,,"Rhexis tear","Rhexis tear","Rhexis tear",Misc,N/A,,,1,181
+86358AAAAAAAAAAAG7MAAAAAAAAAAAAAAAAA,,"PC Rent","PC Rent","PC Rent",Misc,N/A,,,1,182
+86358AAAAAAAAAAAG8MAAAAAAAAAAAAAAAAA,,"DM detachment","DM detachment","DM detachment",Misc,N/A,,,1,183
+86358AAAAAAAAAAAG9MAAAAAAAAAAAAAAAAA,,"Iridodialysis (>3hrs)","Iridodialysis (>3hrs)","Iridodialysis (>3hrs)",Misc,N/A,,,1,184
+86358AAAAAAAAAAAGAMAAAAAAAAAAAAAAAAA,,"Drop (Nucleus/ Epinucleus/IOL)","Drop (Nucleus/ Epinucleus/IOL)","Drop (Nucleus/ Epinucleus/IOL)",Misc,N/A,,,1,185
+86358AAAAAAAAAAAGBMAAAAAAAAAAAAAAAAA,,"Zonular Dialysis","Zonular Dialysis","Zonular Dialysis",Misc,N/A,,,1,186
+86358AAAAAAAAAAAGCMAAAAAAAAAAAAAAAAA,,"Vitreous Disturbance","Vitreous Disturbance","Vitreous Disturbance",Misc,N/A,,,1,187
+86358AAAAAAAAAAAGDMAAAAAAAAAAAAAAAAA,,"Failure to implant","Failure to implant","Failure to implant",Misc,N/A,,,1,188
+86358AAAAAAAAAAAGEAMAAAAAAAAAAAAAAAAA,,"IOL damage / exchange","IOL damage / exchange","IOL damage / exchange",Misc,N/A,,,1,189
+86358AAAAAAAAAAAGFMAAAAAAAAAAAAAAAAA,,"At which step:",At which step:,At which step:,Question,Coded,,Nucleus Delivery;Emulsification;I/A IOL Implantation,1,190
+86358AAAAAAAAAAAGGMAAAAAAAAAAAAAAAAA,,"Nucleus Delivery","Nucleus Delivery","Nucleus Delivery",Misc,N/A,,,1,191
+86358AAAAAAAAAAAGHMAAAAAAAAAAAAAAAAA,,"Emulsification","Emulsification","Emulsification",Misc,N/A,,,1,192
+86358AAAAAAAAAAAGIMAAAAAAAAAAAAAAAAA,,"I/A IOL Implantation","I/A IOL Implantation","I/A IOL Implantation",Misc,N/A,,,1,193
+86358AAAAAAAAAAAGJMAAAAAAAAAAAAAAAAA,,"Vitrectomy","Vitrectomy","Vitrectomy",Question,Coded,,Yes;No;Automated;Weck sponge,1,194
+86358AAAAAAAAAAAGKMAAAAAAAAAAAAAAAAA,,Automated,Automated,Automated,Misc,N/A,,,1,195
+86358AAAAAAAAAAAGLMAAAAAAAAAAAAAAAAA,,Weck sponge,Weck sponge,Weck sponge,Misc,N/A,,,1,196
+86358AAAAAAAAAAAGMMAAAAAAAAAAAAAAAAA,,"Remarks","Remarks","Remarks",Question,Text,,,"1.0",197
+86358AAAAAAAAAAAGNMAAAAAAAAAAAAAAAAA,,"Signature","Signature","Signature",Image,Complex,ImageUrlHandler,,"1.0",198
+86358AAAAAAAAAAAGOMAAAAAAAAAAAAAAAAA,,"Complaints","Complaints","Complaints",Question,Text,,,"1.0",199
+86358AAAAAAAAAAAGPMAAAAAAAAAAAAAAAAA,,"Well-opposed (Normal)","Well-opposed (Normal)","Well-opposed (Normal)",Question,Coded,,Yes;No,1,200
+86358AAAAAAAAAAAGQMAAAAAAAAAAAAAAAAA,,"Wound Leak","Wound Leak","Wound Leak",Question,Coded,,Yes;No,1,201
+86358AAAAAAAAAAAGRMAAAAAAAAAAAAAAAAA,,"Iris Prolapse","Iris Prolapse","Iris Prolapse",Question,Coded,,Yes;No,1,202
+86358AAAAAAAAAAAGSMAAAAAAAAAAAAAAAAA,,"Clear(Normal)","Clear(Normal)","Clear(Normal)",Question,Coded,,Yes;No,1,203
+86358AAAAAAAAAAAGTMAAAAAAAAAAAAAAAAA,,"Striate Keratitis","Striate Keratitis","Striate Keratitis",Question,Coded,,1+;2+;3+,1,204
+86358AAAAAAAAAAAGUMAAAAAAAAAAAAAAAAA,,"Epithelial Edema","Epithelial Edema","Epithelial Edema",Question,Coded,,1+;2+;3+,1,205
+86358AAAAAAAAAAAGVMAAAAAAAAAAAAAAAAA,,"Epithelial defect","Epithelial defect","Epithelial defect",Question,Coded,,Yes;No,1,206
+86358AAAAAAAAAAAGWMAAAAAAAAAAAAAAAAA,,"DM strip more than 1/3","DM strip more than 1/3","DM strip more than 1/3",Question,Coded,,Yes;No,1,207
+86358AAAAAAAAAAAGXMAAAAAAAAAAAAAAAAA,,"Normal","Normal","Normal",Question,Coded,,Yes;No,1,208
+86358AAAAAAAAAAAGYMAAAAAAAAAAAAAAAAA,,"Shallow AC","Shallow AC","Shallow AC",Question,Coded,,Yes;No,1,209
+86358AAAAAAAAAAAGZMAAAAAAAAAAAAAAAAA,,"Iritis","Iritis","Iritis",Question,Coded,,1+;2+;3+,1,210
+86358AAAAAAAAAAAG0MAAAAAAAAAAAAAAAAA,,"1+","1+","1+",Misc,N/A,,,1,211
+86358AAAAAAAAAAAG1MAAAAAAAAAAAAAAAAA,,"2+","2+","2+",Misc,N/A,,,1,212
+86358AAAAAAAAAAAG2MAAAAAAAAAAAAAAAAA,,"3+","3+","3+",Misc,N/A,,,1,213
+86358AAAAAAAAAAAG3MAAAAAAAAAAAAAAAAA,,"Hyphema less than 3mm","Hyphema less than 3mm","Hyphema less than 3mm",Question,Coded,,Yes;No,1,214
+86358AAAAAAAAAAAG4MAAAAAAAAAAAAAAAAA,,"Hyphema more than 3mm","Hyphema more than 3mm","Hyphema more than 3mm",Question,Coded,,Yes;No,1,215
+86358AAAAAAAAAAAG5MAAAAAAAAAAAAAAAAA,,"Minimal cortex","Minimal cortex","Minimal cortex",Question,Coded,,Yes;No,1,216
+86358AAAAAAAAAAAG6MAAAAAAAAAAAAAAAAA,,"Significant cortex/epinucleus","Significant cortex/epinucleus","Significant cortex/epinucleus",Question,Coded,,Yes;No,1,217
+86358AAAAAAAAAAAG7MAAAAAAAAAAAAAAAAA,,"Vitreous loss","Vitreous loss","Vitreous loss",Question,Coded,,Yes;No,1,218
+86358AAAAAAAAAAAG8MAAAAAAAAAAAAAAAAA,,"Fibrinous uveitis","Fibrinous uveitis","Fibrinous uveitis",Question,Coded,,Yes;No,1,219
+86358AAAAAAAAAAAG9MAAAAAAAAAAAAAAAAA,,"Severe uveitis with hypopyon","Severe uveitis with hypopyon","Severe uveitis with hypopyon",Question,Coded,,Yes;No,1,220
+86358AAAAAAAAAAAGAMAAAAAAAAAAAAAAAAA,,"Vitreous in AC/Section","Vitreous in AC/Section","Vitreous in AC/Section",Question,Coded,,Yes;No,1,221
+86358AAAAAAAAAAAGBMAAAAAAAAAAAAAAAAA,,"Round (Normal)","Round (Normal)","Round (Normal)",Question,Coded,,Yes;No,1,222
+86358AAAAAAAAAAAGCMAAAAAAAAAAAAAAAAA,,"Irregular","Irregular","Irregular",Question,Coded,,Yes;No,1,223
+86358AAAAAAAAAAAGDMAAAAAAAAAAAAAAAAA,,"Iridodialysis","Iridodialysis","Iridodialysis",Question,Coded,,Yes;No,1,224
+86358AAAAAAAAAAAGEMAAAAAAAAAAAAAAAAA,,"In bag","In bag","In bag",Question,Coded,,Yes;No,1,225
+86358AAAAAAAAAAAGFMAAAAAAAAAAAAAAAAA,,"In sulcus","In sulcus","In sulcus",Question,Coded,,Yes;No,1,226
+86358AAAAAAAAAAAGGMAAAAAAAAAAAAAAAAA,,"Not assessable","Not assessable","Not assessable",Question,Coded,,Yes;No,1,227
+86358AAAAAAAAAAAGHMAAAAAAAAAAAAAAAAA,,"Decentered","Decentered","Decentered",Question,Coded,,Yes;No,1,228
+86358AAAAAAAAAAAGIMAAAAAAAAAAAAAAAAA,,"Dislocated","Dislocated","Dislocated",Question,Coded,,Yes;No,1,229
+86358AAAAAAAAAAAGJMAAAAAAAAAAAAAAAAA,,"Aphakia","Aphakia","Aphakia",Question,Coded,,Yes;No,1,230
+86358AAAAAAAAAAAGKMAAAAAAAAAAAAAAAAA,,"Intact","Intact","Intact",Question,Coded,,Yes;No,1,231
+86358AAAAAAAAAAAGLMAAAAAAAAAAAAAAAAA,,"Rent","Rent","Rent",Question,Coded,,Yes;No,1,232
+86358AAAAAAAAAAAGMMAAAAAAAAAAAAAAAAA,,"Zonular dialysis","Zonular dialysis","Zonular dialysis",Question,Coded,,Yes;No,1,233
+86358AAAAAAAAAAAGNMAAAAAAAAAAAAAAAAA,,"Normal","Normal","Normal",Question,Coded,,Yes;No,1,234
+86358AAAAAAAAAAAGOMAAAAAAAAAAAAAAAAA,,"Pathology","Pathology","Pathology",Question,Coded,,Yes;No,1,235
+86358AAAAAAAAAAAGPMAAAAAAAAAAAAAAAAA,,"Discharged by","Discharged by","Discharged by",Question,Text,,,"1.0",236
+86358AAAAAAAAAAAGQMAAAAAAAAAAAAAAAAA,,"Follow up date","Follow up date","Follow up date",Question,Date,,,"1.0",237
+86358AAAAAAAAAAAGRMAAAAAAAAAAAAAAAAA,,"Counselled by","Counselled by","Counselled by",Question,Text,,,"1.0",238:
+86358AAAAAAAAAAAGSMAAAAAAAAAAAAAAAAA,,"Eye","Eye","Eye",Question,Text,,,"1.0",239
+86358AAAAAAAAAAAGTMAAAAAAAAAAAAAAAAA,,"Vn. un aided","Vn. un aided","Vn. un aided",Question,Text,,,"1.0",240
+86358AAAAAAAAAAAGUMAAAAAAAAAAAAAAAAA,,"Vn. with PH","Vn. with PH","Vn. with PH",Question,Text,,,"1.0",241
+86358AAAAAAAAAAAGVMAAAAAAAAAAAAAAAAA,,"Reason (If UCVA 6/24 and less)","Reason (If UCVA 6/24 and less)","Reason (If UCVA 6/24 and less)",Question,Text,,,"1.0",242
+86358AAAAAAAAAAAGWMAAAAAAAAAAAAAAAAA,,"Patient-related risk factors Surgical or immediate post-operative complications Checked by","Patient-related risk factors Surgical or immediate post-operative complications Checked by","Patient-related risk factors Surgical or immediate post-operative complications Checked by",Question,Text,,,"1.0",243
+86358AAAAAAAAAAAGXMAAAAAAAAAAAAAAAAA,,"Time","Time","Time",Question,Text,,,"1.0",244
+86358AAAAAAAAAAAGYMAAAAAAAAAAAAAAAAA,,"Clinic Intime","Clinic Intime","Clinic Intime",Question,Time,,,"1.0",245
+86358AAAAAAAAAAAGZMAAAAAAAAAAAAAAAAA,,"Surgery Date","Surgery Date","Surgery Date",Question,Date,,,"1.0",246
+86358AAAAAAAAAAAG0MAAAAAAAAAAAAAAAAA,,"Complaints","Complaints","Complaints",Question,Text,,,"1.0",247
+86358AAAAAAAAAAAG1MAAAAAAAAAAAAAAAAA,,"Present medication","Present medication","Present medication",Question,Text,,,"1.0",248
+86358AAAAAAAAAAAG2MAAAAAAAAAAAAAAAAA,,"Dilation done","Dilation done","Dilation done",Question,Coded,,Yes;No,1,249
+86358AAAAAAAAAAAG3MAAAAAAAAAAAAAAAAA,,"Dilation applied by","Dilation applied by","Dilation applied by",Question,Text,,,"1.0",250
+86358AAAAAAAAAAAG4MAAAAAAAAAAAAAAAAA,,"Duration","Duration","Duration",Question,Text,,,"1.0",251
+86358AAAAAAAAAAAG5MAAAAAAAAAAAAAAAAA,,"Type of glass","Type of glass","Type of glass",Question,Text,,,"1.0",252
+86358AAAAAAAAAAAG6MAAAAAAAAAAAAAAAAA,,"Lens","Lens","Lens",Question,Text,,,"1.0",253
+86358AAAAAAAAAAAG7MAAAAAAAAAAAAAAAAA,,"Frame","Frame","Frame",Question,Text,,,"1.0",254
+86358AAAAAAAAAAAG8MAAAAAAAAAAAAAAAAA,,"D BOC","D BOC","D BOC",Question,Text,,,"1.0",255
+86358AAAAAAAAAAAG9MAAAAAAAAAAAAAAAAA,,"Condition of Spectacles","Condition of Spectacles","Condition of Spectacles",Question,Coded,,Good;Fair;Poor,1,256
+86358AAAAAAAAAAAGAMAAAAAAAAAAAAAAAAA,,"RE","RE","RE",Question,Coded,,Spherical;Cylinder;Axis;V/A with PG,1,257
+86358AAAAAAAAAAAGBMAAAAAAAAAAAAAAAAA,,"LE","LE","LE",Question,Coded,,Spherical;Cylinder;Axis;V/A with PG,1,258
+86358AAAAAAAAAAAGCMAAAAAAAAAAAAAAAAA,,"RE: Add","RE: Add","RE: Add",Question,Coded,,Spherical;Cylinder;Axis;V/A with PG,1,259
+86358AAAAAAAAAAAGDMAAAAAAAAAAAAAAAAA,,"LE: Add","LE: Add","LE: Add",Question,Coded,,Spherical;Cylinder;Axis;V/A with PG,1,260
+86358AAAAAAAAAAAGEAMAAAAAAAAAAAAAAAAA,,"Spherical","Spherical","Spherical",Misc,N/A,,,1,261
+86358AAAAAAAAAAAGFMAAAAAAAAAAAAAAAAA,,"Cylinder","Cylinder","Cylinder",Misc,N/A,,,1,262
+86358AAAAAAAAAAAGGMAAAAAAAAAAAAAAAAA,,"Axis","Axis","Axis",Misc,N/A,,,1,263
+86358AAAAAAAAAAAGHMAAAAAAAAAAAAAAAAA,,"V/A with PG","V/A with PG","V/A with PG",Misc,N/A,,,1,264
