@@ -100,14 +100,14 @@ c29d1529-058e-48d7-98e0-8f91add6a569,,Pre-op systematic medications taken,Pre-op
 b8325633-088b-4201-b21a-71107eb39ed1,,Billing details verified,Billing details verified,Billing details verified,Misc,N/A,,,1,96
 4b6f5d34-8b3c-48a4-a07d-f0e5f7203110,,A-scan verified,A-scan verified,A-scan verified,Misc,N/A,,,1,97
 c6d33671-53a8-4412-84d7-322a38e434ed,,Any known allergy,Any known allergy,Any known allergy,Question,Coded,,Yes;No,1,98
-eb26d611-5a36-4e46-892c-4ab6edbfbbac,,Pre-op iodine applied,Pre-op iodine applied,Pre-op iodine applied,Question,Coded,,Yes;No,1,99
+eb26d611-5a36-4e46-892c-4ab6edbfbbac,,Cataract Pre-op iodine applied,Pre-op iodine applied,Pre-op iodine applied,Question,Coded,,Yes;No,1,99
 62fa60c9-3bbc-47ba-85a6-11edd79cfb31,,Surgeon & Nurse verbally confirm,Surgeon & Nurse verbally confirm,Surgeon & Nurse verbally confirm,Question,Coded,,Patient identify;Eye;Procedure;Lens model and power,1,100
 f7bb36ff-c2e3-4f73-b379-f6b4e4c638e6,,Patient identify,Patient identify,Patient identify,Misc,N/A,,,1,101
-d493b6f9-b857-4fc5-a279-c00faca9153f,,Procedure,Procedure,Procedure,Misc,N/A,,,1,103
+d493b6f9-b857-4fc5-a279-c00faca9153f,,Cataract procedure,Procedure,Procedure,Misc,N/A,,,1,103
 cb1b561f-32ef-41a6-81bd-cd0e2b5e6e5b,,Lens model and power,Lens model and power,Lens model and power,Misc,N/A,,,1,104
-ff74447e-120b-40fc-8148-8c79b743ac4e,,Aseptic precautions taken,Aseptic precautions taken,Aseptic precautions taken,Question,Coded,,Yes;No,1,105
+ff74447e-120b-40fc-8148-8c79b743ac4e,,Cataract surgical aseptic precautions taken,Aseptic precautions taken,Aseptic precautions taken,Question,Coded,,Yes;No,1,105
 a9b5de5a-5547-4c6c-a08d-8b150c1431d6,,Eye cleaned with Betadine,Eye cleaned with Betadine,Eye cleaned with Betadine,Question,Coded,,Yes;No,1,106
-c7c8b325-0437-4545-b067-ea9e136522c8,,Draped & speculum applied,Draped & speculum applied," ""Draped & speculum applied""",Question,Coded,,Yes;No,1,107
+c7c8b325-0437-4545-b067-ea9e136522c8,,Cataract surgery patient Draped & speculum applied,Draped & speculum applied," ""Draped & speculum applied""",Question,Coded,,Yes;No,1,107
 83465bc8-5bd2-4b05-976c-288808e93e21,,Nurse verbally confirms with team:,Nurse verbally confirms with team:,Nurse verbally confirms with team:,Question,Coded,,Name of the procedures recorded;Any specific post op instructions,1,108
 28f25d02-3145-4751-abce-eb6017712d5b,,Name of the procedures recorded,Name of the procedures recorded,Name of the procedures recorded,Misc,N/A,,,1,109
 db50337c-10fd-432b-aaac-4cfb85ccee9f,,Any specific post op instructions,Any specific post op instructions,Any specific post op instructions,Misc,N/A,,,1,110
