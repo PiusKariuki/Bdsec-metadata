@@ -196,7 +196,7 @@ cf647b0b-4551-4c25-87d3-48850a97c74e,,Vitrectomy for cataract surgery,Vitrectomy
 d7efcd4a-e829-4a0c-bffb-a80cb147771c,,Automated,Automated,Automated,Misc,N/A,,,1,195
 fa95e39d-17c2-4bd9-957e-fb09bbd5de13,,Weck sponge,Weck sponge,Weck sponge,Misc,N/A,,,1,196
 5076fc11-5a8d-41a5-96eb-82db82aebe73,,Remarks,Remarks,Remarks,Question,Text,,,1.0,197
-311de46d-220d-42a2-8237-9d8ed7eec98b,,Signature,Signature,Signature,Image,Complex,ImageUrlHandler,,1.0,198
+311de46d-220d-42a2-8237-9d8ed7eec98b,,"Surgical safety checklist, signature",Signature,Signature,Image,Complex,ImageUrlHandler,,1.0,198
 630b75a4-85b3-4303-98d4-b44c92f61a23,,Post operative complaints,Complaints,Complaints,Question,Text,,,1.0,199
 d74f1773-e9a4-49cd-9220-bcef9ca687de,,Well-opposed (Normal),Well-opposed (Normal),Well-opposed (Normal),Question,Coded,,Yes;No,1,200
 a2de24b2-84b8-4894-a296-4b1acd0f74b3,,Post Operative Wound Leak,Wound Leak,Wound Leak,Question,Coded,,Yes;No,1,201
@@ -228,7 +228,7 @@ c882c4ee-f19a-4605-ab7b-5e8a6fe851e0,,In sulcus,In sulcus,In sulcus,Question,Cod
 ce12127b-75cb-4188-abab-fb8789061234,,Not assessable,Not assessable,Not assessable,Question,Coded,,Yes;No,1,227
 fd7d8346-e8ba-446b-a187-6eaa4a0927a4,,Decentered,Decentered,Decentered,Question,Coded,,Yes;No,1,228
 2ed6d559-2986-4775-b200-a14dd25a4caf,,Dislocated,Dislocated,Dislocated,Question,Coded,,Yes;No,1,229
-4487778d-2da4-4727-81e3-2e629041aa59,,Aphakia,Aphakia,Aphakia,Question,Coded,,Yes;No,1,230
+4487778d-2da4-4727-81e3-2e629041aa59,,"IOL Position, Aphakia",Aphakia,Aphakia,Question,Coded,,Yes;No,1,230
 56f3093a-1a70-4602-a9d4-35eb6e41cf99,,Intact,Intact,Intact,Question,Coded,,Yes;No,1,231
 15ac9602-25cd-4634-b796-8853f87bc6ce,,Rent,Rent,Rent,Question,Coded,,Yes;No,1,232
 e1fa2ce8-34a4-4a0e-a7c8-01656f081966,,"PC, Zonular dialysis",Zonular dialysis,Zonular dialysis,Question,Coded,,Yes;No,1,233
@@ -255,8 +255,8 @@ d2e138d5-c15d-4193-be6c-d991279de519,,Dilation done,Dilation done,Dilation done,
 e892340c-7a7f-477c-af7c-7bade2c601a9,,Frame,Frame,Frame,Question,Text,,,1.0,254
 f1ce299d-973d-484b-a35f-d177455050fb,,D BOC,D BOC,D BOC,Question,Text,,,1.0,255
 f57b07d6-9741-4648-910b-44ee87c55c05,,Condition of Spectacles,Condition of Spectacles,Condition of Spectacles,Question,Coded,,Good;Fair;Poor,1,256
-7e6f4f60-260f-4183-aa51-3011bf9807f4,,RE,RE,RE,Question,Coded,,Spherical;Cylinder;Axis;V/A with PG,1,257
-21aa94f1-c2f5-4ebb-ad25-7d4f5ba96c5d,,LE,LE,LE,Question,Coded,,Spherical;Cylinder;Axis;V/A with PG,1,258
+7e6f4f60-260f-4183-aa51-3011bf9807f4,,refraction record RE,RE,RE,Question,Coded,,Spherical;Cylinder;Axis;V/A with PG,1,257
+21aa94f1-c2f5-4ebb-ad25-7d4f5ba96c5d,,Refraction record LE,LE,LE,Question,Coded,,Spherical;Cylinder;Axis;V/A with PG,1,258
 192d54dd-93f7-415b-8cda-32f22bc9cb43,,RE: Add,RE: Add,RE: Add,Question,Coded,,Spherical;Cylinder;Axis;V/A with PG,1,259
 81c7483e-93c5-4a34-ad20-013a9b6b3a15,,LE: Add,LE: Add,LE: Add,Question,Coded,,Spherical;Cylinder;Axis;V/A with PG,1,260
 afdb1229-f8a5-4949-9d73-84ef03b1de6e,,Spherical,Spherical,Spherical,Misc,N/A,,,1,261
