@@ -107,7 +107,7 @@ d493b6f9-b857-4fc5-a279-c00faca9153f,,Cataract procedure,Procedure,Procedure,Mis
 cb1b561f-32ef-41a6-81bd-cd0e2b5e6e5b,,Lens model and power,Lens model and power,Lens model and power,Misc,N/A,,,1,104
 ff74447e-120b-40fc-8148-8c79b743ac4e,,Cataract surgical aseptic precautions taken,Aseptic precautions taken,Aseptic precautions taken,Question,Coded,,Yes;No,1,105
 a9b5de5a-5547-4c6c-a08d-8b150c1431d6,,Eye cleaned with Betadine,Eye cleaned with Betadine,Eye cleaned with Betadine,Question,Coded,,Yes;No,1,106
-c7c8b325-0437-4545-b067-ea9e136522c8,,Cataract surgery patient Draped & speculum applied,Draped & speculum applied," ""Draped & speculum applied""",Question,Coded,,Yes;No,1,107
+c7c8b325-0437-4545-b067-ea9e136522c8,,Cataract surgery patient draped & speculum applied,Draped & speculum applied," ""Draped & speculum applied""",Question,Coded,,Yes;No,1,107
 83465bc8-5bd2-4b05-976c-288808e93e21,,Nurse verbally confirms with team:,Nurse verbally confirms with team:,Nurse verbally confirms with team:,Question,Coded,,Name of the procedures recorded;Any specific post op instructions,1,108
 28f25d02-3145-4751-abce-eb6017712d5b,,Name of the procedures recorded,Name of the procedures recorded,Name of the procedures recorded,Misc,N/A,,,1,109
 db50337c-10fd-432b-aaac-4cfb85ccee9f,,Any specific post op instructions,Any specific post op instructions,Any specific post op instructions,Misc,N/A,,,1,110
@@ -121,12 +121,12 @@ cc62678d-f42f-444e-8c42-de0cd8341279,,If repeated by Time,If repeated by Time,If
 d03d41ad-d01a-45ed-9363-9f5622a17e09,,Complications if any,Complications if any,Complications if any,Question,Coded,,IV Mannitol;Xylocaine testdose,1,118
 5e5e39c2-a747-49df-86f7-641ad2553700,,IV Mannitol,IV Mannitol,IV Mannitol,Misc,N/A,,,1,119
 129b32d4-0314-45df-9713-1f2411a8e460,,Xylocaine testdose,Xylocaine testdose,Xylocaine testdose,Misc,N/A,,,1,120
-f3be375b-88f9-49c2-925b-fa65820131bf,,Surgeon Name,Surgeon Name,Surgeon Name,Question,Text,,,1.0,121
+166688AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,Surgeon Name,Surgeon Name,Surgeon Name,Question,Text,,,1.0,121
 e6f6857b-88f5-44ea-b6ea-24a48d82bb3f,,Assistant Nurse,Assistant Nurse,Assistant Nurse,Question,Text,,,1.0,122
 f477762f-ce98-4cbf-a091-e25310125378,,Starting time,Starting time,Starting time,Question,Time,,,1.0,123
 7dee3b47-20e0-4978-ad8e-afd4e85a635b,,Finishing time,Finishing time,Finishing time,Question,Time,,,1.0,124
 8d06d078-9a51-48ec-85f1-b3e5405a3220,,Phaco time,Phaco time,Phaco time,Question,Time,,,1.0,125
-8a2963ee-85bc-4880-9ac1-7a5622e10989,,Type of surgery,Type of surgery,Type of surgery,Question,Coded,,ECCE;SICS;Phaco;Lens removal;Secondary IOL;Resurgery (outside operated),1,126
+8a2963ee-85bc-4880-9ac1-7a5622e10989,,Type of cataract surgery,Type of surgery,Type of surgery,Question,Coded,,ECCE;SICS;Phaco;Lens removal;Secondary IOL;Resurgery (outside operated),1,126
 7f7c184b-8767-4bb0-bd48-eac1a8d118a7,,ECCE,ECCE,ECCE,Misc,N/A,,,1,127
 b4d468b7-cce7-4748-aa83-d48d3973dc07,,SICS,SICS,SICS,Misc,N/A,,,1,128
 cf750cf2-ec81-4e3b-b036-1d51a685f18f,,Phaco,Phaco,Phaco,Misc,N/A,,,1,129
@@ -142,7 +142,7 @@ e60c3903-05fd-4742-9690-2fe5b9513940,,Auroflex,Auroflex,Auroflex,Misc,N/A,,,1,13
 986a156d-1372-4e34-812f-30d5058b8575,,Multifocal,Multifocal,Multifocal,Misc,N/A,,,1,139
 ef48720c-190c-4c24-a364-688ca2bd5017,,Auro Toric,Auro Toric,Auro Toric,Misc,N/A,,,1,140
 f7f9a3a9-c1ba-4c97-ac91-840aa2e466c6,,Imported Toric,Imported Toric,Imported Toric,Misc,N/A,,,1,141
-719fb560-74b1-4c23-92a2-1856bae0497d,,Section,Section,Section,Question,Coded,,Corneal;Limbal;Scleral,1,142
+719fb560-74b1-4c23-92a2-1856bae0497d,,Cataract surgery section,Section,Section,Question,Coded,,Corneal;Limbal;Scleral,1,142
 806c39c7-6585-4598-bcd6-74ec52c28221,,Corneal,Corneal,Corneal,Misc,N/A,,,1,143
 1b18468d-8f89-4015-b2f3-71530c8957ed,,Limbal,Limbal,Limbal,Misc,N/A,,,1,144
 ba698d09-3b2a-4828-a0de-6ec8b9add9ff,,Scleral,Scleral,Scleral,Misc,N/A,,,1,145
@@ -167,7 +167,7 @@ c2bb48da-b923-459d-8efd-683a9562e024,,Intracameral,Intracameral,Intracameral,Que
 4382051b-bff0-4746-8777-674923b3da56,,Xylocaine,Xylocaine,Xylocaine,Misc,N/A,,,1,166
 3713e0a8-da8a-4c64-b908-74df845fb33e,,Adrenaline,Adrenaline,Adrenaline,Misc,N/A,,,1,167
 36fad84c-e081-423a-bd48-0be159f6a539,,Trypanblue,Trypanblue,Trypanblue,Misc,N/A,,,1,168
-cf73b2b3-4dfd-40a7-afd5-b74e7386d525,,Pilocarpine,Pilocarpine,Pilocarpine,Misc,N/A,,,1,169
+cf73b2b3-4dfd-40a7-afd5-b74e7386d525,,Pilocarpine for cataract surgery,Pilocarpine,Pilocarpine,Misc,N/A,,,1,169
 03468a20-cc38-4537-a18d-18bf5f48fbbc,,Antibiotic,Antibiotic,Antibiotic,Misc,N/A,,,1,170
 6a7565fc-c279-42bc-8c18-71faa4ef8247,,Triamcinolone,Triamcinolone,Triamcinolone,Misc,N/A,,,1,171
 ff743e5b-3a86-49c9-b890-ce1fc0b49d9a,,Devices,Devices,Devices,Question,Coded,,CTR;Iris hooks;Capsule hooks;Modified CTR,1,172
